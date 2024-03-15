@@ -438,13 +438,27 @@ CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
 
 台湾频道,#genre#
 民视,http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
+民视,rtmp://f13h.mine.nu/sat/tv051
+民视,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 中视,http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
+中视,rtmp://f13h.mine.nu/sat/tv091
+中视,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
+中视,mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
+中视,P2p://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
 华视,http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
+华视,rtmp://f13h.mine.nu/sat/tv111
+华视,mitv://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
+华视,mitv://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
+华视,P2p://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
+华视,P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
 台视,http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv
-华视1,rtmp://f13h.mine.nu/sat/tv111
-中视1,rtmp://f13h.mine.nu/sat/tv091
-台视1,rtmp://f13h.mine.nu/sat/tv071
-民视1,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
+
+
+
+
 
 
 广东频道,#genre#
