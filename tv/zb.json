@@ -436,7 +436,17 @@ CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
 建宁综合频道,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8
 新罗电视一套,http://stream.lyxltv.com/xltv/sd/live.m3u8
 
-台湾频道,#genre#
+港台频道,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+凤凰卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
+凤凰卫视,http://qctv.fengshows.cn/live/0701pcc48.flv?txSecret=b318ea0ced67fbd9f950ce6e0565aebe&txTime=65f69ae1
+
+凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
+凤凰资讯,http://qctv.fengshows.cn/live/0701pin48.flv?txSecret=91e0469da096c597a527b9223f145a43&txTime=65f69a7d
+
+明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
+
 民视,http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
@@ -448,8 +458,7 @@ CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
 台视,rtmp://f13h.mine.nu/sat/tv071
 
 公视新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
+
 
 中视新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetymjldhdujocnjsxw.flv
 
