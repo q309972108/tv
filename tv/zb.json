@@ -439,9 +439,6 @@ CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
 港台频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-凤凰中文,http://183.6.122.31:8091/HK/fhzw.live.flv
-凤凰中文,http://111.173.81.3:3001/HK/fhzw/hls.m3u8
-
 凤凰卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 凤凰卫视,http://qctv.fengshows.cn/live/0701pcc48.flv?txSecret=b318ea0ced67fbd9f950ce6e0565aebe&txTime=65f69ae1
 
@@ -456,18 +453,23 @@ CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
 明珠台,http://111.173.81.3:3001/HK/mz/hls.m3u8
 明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
 
-民视,http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
+
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+民视,http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
+
+中视,rtmp://f13h.mine.nu/sat/tv091
 中视,http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
 中视,http://183.6.122.31:8091/TW/zs.live.flv
-中视,rtmp://f13h.mine.nu/sat/tv091
+
+华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
 华视,http://183.6.122.31:8091/TW/hs.live.flv
-华视,rtmp://f13h.mine.nu/sat/tv111
+
+台视,rtmp://f13h.mine.nu/sat/tv071
 台视,http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv
 台视,http://183.6.122.31:8091/TW/ts.live.flv
-台视,rtmp://f13h.mine.nu/sat/tv071
+
 
 公视新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
 
