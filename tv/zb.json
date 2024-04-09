@@ -164,8 +164,7 @@ CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
 
 
 卫视频道,#genre#
-厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
-厦门卫视,http://muheart.3322.org:18216/rtp/239.93.42.57:5140
+厦门卫视,http://monkey25mo.x3322.net:8888/udp/239.77.0.96:5146
 厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 厦门卫视,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
 
@@ -399,8 +398,7 @@ CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
 
 
 福建频道,#genre#
-厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
-厦门卫视,http://muheart.3322.org:18216/rtp/239.93.42.57:5140
+厦门卫视,http://monkey25mo.x3322.net:8888/udp/239.77.0.96:5146
 厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 厦门卫视,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
 厦门一套,https://xiamenalic.v.myalicdn.com/xiamen/xiamen1_1/index.m3u8
@@ -438,20 +436,22 @@ CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
 
 港台频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港凤凰,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 
-
-
+民视,rtmp://220.130.201.73/sat/tv051
 民视,rtmp://f13h.mine.nu/sat/tv051
 
-
+中视,rtmp://220.130.201.73/sat/tv091
 中视,rtmp://f13h.mine.nu/sat/tv091
 
-
+华视,rtmp://220.130.201.73/sat/tv111
 华视,rtmp://f13h.mine.nu/sat/tv111
 
-
+台视,rtmp://220.130.201.73/sat/tv071
 台视,rtmp://f13h.mine.nu/sat/tv071
 
 
