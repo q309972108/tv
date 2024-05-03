@@ -1,170 +1,74 @@
 央视频道,#genre#
 CCTV1,http://27.148.240.138/PLTV/88888888/224/3221226773/1.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV1,http://218.29.135.6:4000/rtp/225.1.4.73:1102
+CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 
-
-CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV2,http://626.myds.me:8888/rtp/239.49.8.130:6000$江苏电信
 CCTV2,rtsp://27.148.219.129:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208064869858322&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJPPOs560ILJc4KpVFFgelPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV2,http://muheart.3322.org:18216/rtp/239.93.1.23:6000
 CCTV2,http://27.148.240.138/PLTV/88888888/224/3221226788/1.m3u8
-CCTV2,http://newzxl.top:4022/rtp/239.253.92.190:6065
+CCTV2,http://218.29.135.6:4000/rtp/225.1.4.74:1103
 
+CCTV3,http://118.254.201.65:8888/udp/239.76.253.153:9000$湖南电信
 
-CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV3,http://muheart.3322.org:18216/rtp/239.93.1.11:2223
-
-
-CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV4,rtsp://27.148.219.129:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ua7JKAOanUQE3SUt988pGyyEzRyUwU0evCPJtTeGO8KhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV4,http://muheart.3322.org:18216/rtp/239.93.1.105:5140
-CCTV4,http://muheart.3322.org:18216/rtp/239.93.0.212:5140
+CCTV4,http://626.myds.me:8888/rtp/239.49.8.131:6000$江苏电信
 
+CCTV5,http://183.135.226.196:4022/rtp/233.50.201.197:5140$浙江电信
 
-CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5,http://muheart.3322.org:18216/rtp/239.93.42.37:5140
-CCTV5,http://newzxl.top:4022/rtp/239.253.92.181:6046
-CCTV5,http://sx.liuyun.wang:88/live/migu.php?id=cctv5
-CCTV5,http://sx.liuyun.wang:88/live/ysp.php?id=cctv5
-CCTV5,http://muheart.3322.org:18216/rtp/239.93.0.158:5140
-
-CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV5+,http://183.135.226.196:4022/rtp/233.50.201.220:5140$浙江电信
 CCTV5+,rtsp://27.148.219.129:554/live/ch17092110522954055086.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110522954055086&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3LhGOtm6HMBkO7D9Dxc9Kd8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV5+,http://muheart.3322.org:18216/rtp/239.93.1.36:8004
 CCTV5+,http://27.148.240.138/PLTV/88888888/224/3221226850/1.m3u8
-CCTV5+,http://newzxl.top:4022/rtp/239.253.92.82:8013
-CCTV5+,http://sx.liuyun.wang:88/live/migu.php?id=cctv5p
-CCTV5+,http://sx.liuyun.wang:88/live/migu.php?id=cctv5p2
-CCTV5+,http://sx.liuyun.wang:88/live/ysp.php?id=cctv5p
-CCTV5+,https://p.ggiptv.com/v/ysp.m3u8?token=VrdagFDc9Zjt1QOS7iG35BiW&id=cctv5p
 
-
-CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV6,http://183.135.226.196:4022/rtp/233.50.201.198:5140$浙江电信
 CCTV6,http://27.148.240.138/PLTV/88888888/224/3221227089/1.m3u8
-CCTV6,http://muheart.3322.org:18216/rtp/239.93.1.13:2226
-CCTV6,http://newzxl.top:4022/rtp/239.253.92.193:6058
-CCTV6,http://sx.liuyun.wang:88/live/migu.php?id=cctv6
-CCTV6,http://sx.liuyun.wang:88/live/ysp.php?id=cctv6
-CCTV6,http://218.15.229.90:9901/tsfile/live/0006_1.m3u8
-CCTV6,http://muheart.3322.org:18216/rtp/239.93.0.64:5140
 
-
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
+CCTV7,http://183.135.226.196:4022/rtp/233.50.201.120:5140$浙江电信
 CCTV7,rtsp://27.148.219.129:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208080814677315&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJfeqIynThSnMQUlmZG4XzktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV7,http://muheart.3322.org:18216/rtp/239.93.1.67:5140
 CCTV7,http://27.148.240.138/PLTV/88888888/224/3221226780/1.m3u8
-CCTV7,http://newzxl.top:4022/rtp/239.253.92.194:6059
-CCTV7,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv7
-CCTV7,http://sx.liuyun.wang:88/live/migu.php?id=cctv7
-CCTV7,http://sx.liuyun.wang:88/live/ysp.php?id=cctv7
-CCTV7,http://muheart.3322.org:18216/rtp/239.93.0.79:5140
-CCTV7,https://p.ggiptv.com/v/ysp.m3u8?token=AYGVKDFhgvRTEF%2FX%2F%2F1im7Qs&id=cctv7
-CCTV7,https://p.ggiptv.com/v/ysp.m3u8?token=CYyTfmEz1fFTEF%2FX%2F%2F1imLkv&id=cctv7
 
-
-CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV8,http://muheart.3322.org:18216/rtp/239.93.42.39:5140
+CCTV8,http://183.135.226.196:4022/rtp/233.50.201.199:5140$浙江电信
 CCTV8,http://27.148.240.138/PLTV/88888888/224/3221227120/1.m3u8
-CCTV8,http://newzxl.top:4022/rtp/239.253.92.195:6060
-CCTV8,http://sx.liuyun.wang:88/live/migu.php?id=cctv8
-CCTV8,http://sx.liuyun.wang:88/live/ysp.php?id=cctv8
-CCTV8,http://muheart.3322.org:18216/rtp/239.93.0.154:5140
 
-
-CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV9,http://183.135.226.196:4022/rtp/233.50.201.121:5140$浙江电信
 CCTV9,rtsp://27.148.219.129:554/live/ch17092110534875474266.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110534875474266&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3Kqp8Lff1Wxsu5nFcCGQLsPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV9,http://muheart.3322.org:18216/rtp/239.93.1.24:5140
 CCTV9,http://27.148.240.138/PLTV/88888888/224/3221226849/1.m3u8
-CCTV9,http://newzxl.top:4022/rtp/239.253.92.107:6020
-CCTV9,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv9
-CCTV9,http://sx.liuyun.wang:88/live/migu.php?id=cctv9
-CCTV9,http://sx.liuyun.wang:88/live/ysp.php?id=cctv9
-CCTV9,http://muheart.3322.org:18216/rtp/239.93.1.64:5140
 
-
+CCTV10,http://183.135.226.196:4022/rtp/233.50.201.122:5140$浙江电信
 CCTV10,rtsp://27.148.219.129:554/live/ch17092208093413465804.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208093413465804&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwK40i0QqJ17krMIpXhU61QbtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV10,http://muheart.3322.org:18216/rtp/239.93.1.28:5140
 CCTV10,http://27.148.240.138/PLTV/88888888/224/3221226779/1.m3u8
-CCTV10,http://newzxl.top:4022/rtp/239.253.92.196:6061
-CCTV10,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv10
-CCTV10,http://sx.liuyun.wang:88/live/migu.php?id=cctv10
-CCTV10,http://sx.liuyun.wang:88/live/ysp.php?id=cctv10
-CCTV10,http://muheart.3322.org:18216/rtp/239.93.1.63:5140
 
-
+CCTV11,http://183.135.226.196:4022/rtp/233.50.201.11:5140$浙江电信
 CCTV11,rtsp://27.148.219.129:554/live/ch15102717162059665205.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162059665205&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkXO1CnGiUxdVsBVTaMwuPutcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV11,http://muheart.3322.org:18216/rtp/239.93.0.102:5140
 CCTV11,http://27.148.240.138/PLTV/88888888/224/3221226888/1.m3u8
-CCTV11,http://newzxl.top:4022/rtp/239.253.93.153:6321
-CCTV11,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv11
-CCTV11,http://sx.liuyun.wang:88/live/migu.php?id=cctv11
-CCTV11,http://sx.liuyun.wang:88/live/ysp.php?id=cctv11
-CCTV11,http://muheart.3322.org:18216/rtp/239.93.0.170:5140
 
-
+CCTV12,http://183.135.226.196:4022/rtp/233.50.201.123:5140$浙江电信
 CCTV12,rtsp://27.148.219.129:554/live/ch17092208110147271148.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208110147271148&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOwv5iRHMQ%2Bj40nXbfAhXLb5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV12,http://muheart.3322.org:18216/rtp/239.93.1.30:8124
 CCTV12,http://27.148.240.138/PLTV/88888888/224/3221226792/1.m3u8
-CCTV12,http://newzxl.top:4022/rtp/239.253.92.197:6062
-CCTV12,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv12
-CCTV12,http://sx.liuyun.wang:88/live/migu.php?id=cctv12
-CCTV12,http://sx.liuyun.wang:88/live/ysp.php?id=cctv12
-CCTV12,http://muheart.3322.org:18216/rtp/239.93.1.41:5140
 
-
-CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV13,http://183.135.226.196:4022/rtp/233.50.201.246:5140$浙江电信
 CCTV13,rtsp://27.148.219.129:554/live/ch15102717162008550635.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162008550635&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlCf4M6F2bL2ubFe6Qfj5LgtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV13,http://muheart.3322.org:18216/rtp/239.93.0.66:5140
 CCTV13,http://27.148.240.138/PLTV/88888888/224/3221226769/1.m3u8
-CCTV13,http://newzxl.top:4022/rtp/239.253.92.13:8008
-CCTV13,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv13
-CCTV13,http://sx.liuyun.wang:88/live/migu.php?id=cctv13
-CCTV13,http://sx.liuyun.wang:88/live/ysp.php?id=cctv13
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,http://muheart.3322.org:18216/rtp/239.93.0.187:5140
+CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 
-
-CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV14,http://183.135.226.196:4022/rtp/233.50.201.124:5140$浙江电信
 CCTV14,rtsp://27.148.219.129:554/live/ch17092208120898287250.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOyv5DUtRd8oc%2BQ%2Bby%2FK7so4tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV14,http://muheart.3322.org:18216/rtp/239.93.1.29:6000
 CCTV14,,http://27.148.240.138/PLTV/88888888/224/3221226762/1.m3u8
-CCTV14,http://newzxl.top:4022/rtp/239.253.92.198:6063
-CCTV14,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv14
-CCTV14,http://sx.liuyun.wang:88/live/migu.php?id=cctv14
-CCTV14,http://sx.liuyun.wang:88/live/ysp.php?id=cctv14
-CCTV14,http://muheart.3322.org:18216/rtp/239.93.1.40:5140
-CCTV14,https://p.ggiptv.com/v/ysp.m3u8?token=xq46u4J%2F9AZA94aeCtwE0kKB&id=cctv14
 
-
+CCTV15,http://183.135.226.196:4022/rtp/233.50.201.15:5140$浙江电信
 CCTV15,rtsp://27.148.219.129:554/live/ch15102717162037072744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162037072744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvY2g8SzF4nir%2FMoPrl55otcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV15,http://muheart.3322.org:18216/rtp/239.93.0.103:5140
 CCTV15,http://27.148.240.138/PLTV/88888888/224/3221226775/1.m3u8
-CCTV15,http://newzxl.top:4022/rtp/239.253.93.154:6322
-CCTV15,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv15
-CCTV15,http://sx.liuyun.wang:88/live/migu.php?id=cctv15
-CCTV15,http://sx.liuyun.wang:88/live/ysp.php?id=cctv15
-CCTV15,http://muheart.3322.org:18216/rtp/239.93.0.171:5140
 
-
-CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV16,http://183.135.226.196:4022/rtp/233.50.201.192:5140$浙江电信
 CCTV16,http://27.148.240.138/PLTV/88888888/224/3221227352/1.m3u8
-CCTV16,http://sx.liuyun.wang:88/live/ysp.php?id=cctv16
-CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV16,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv16
 
-
+CCTV17,http://183.135.226.196:4022/rtp/233.50.201.35:5140$浙江电信
 CCTV17,rtsp://27.148.219.129:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19073116244855666953&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uYlmqEeSiY7ilafGBzytHgeQXMXS1D9Bq7YYS3stvjq5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV17,http://muheart.3322.org:18216/rtp/239.93.0.92:5140
 CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
-CCTV17,http://newzxl.top:4022/rtp/239.253.93.150:6318
-CCTV17,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=cctv17
-CCTV17,http://sx.liuyun.wang:88/live/migu.php?id=cctv17
-CCTV17,http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
+
 
 
 卫视频道,#genre#
-厦门卫视,http://monkey25mo.x3322.net:8888/udp/239.77.0.96:5146
 厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 厦门卫视,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
 
