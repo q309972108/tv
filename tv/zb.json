@@ -1,67 +1,136 @@
 央视频道,#genre#
+CCTV1,http://123.116.138.34:4022/rtp/239.3.1.129:8008
+CCTV1,http://61.48.31.231:1314/rtp/239.3.1.129:8008
 CCTV1,http://27.148.240.138/PLTV/88888888/224/3221226773/1.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,http://218.29.135.6:4000/rtp/225.1.4.73:1102
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 
+CCTV2,http://123.116.138.34:4022/rtp/239.3.1.60:8084
+CCTV2,http://61.48.31.231:1314/rtp/239.3.1.60:8084
+CCTV2,http://175.9.161.233:8989/udp/239.76.246.152:1234
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV2,http://626.myds.me:8888/rtp/239.49.8.130:6000$江苏电信
 CCTV2,rtsp://27.148.219.129:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208064869858322&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJPPOs560ILJc4KpVFFgelPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV2,http://27.148.240.138/PLTV/88888888/224/3221226788/1.m3u8
 CCTV2,http://218.29.135.6:4000/rtp/225.1.4.74:1103
 
-CCTV3,http://118.254.201.65:8888/udp/239.76.253.153:9000$湖南电信
+CCTV3,http://58.37.189.47:8088/udp/239.45.1.68:5140
+CCTV3,http://123.116.138.34:4022/rtp/239.3.1.172:8001
+CCTV3,http://61.48.31.231:1314/rtp/239.3.1.172:8001
+CCTV3,http://175.9.161.233:8989/udp/239.76.246.153:1234
 
+CCTV4,http://58.37.189.47:8088/udp/239.45.0.2:5140
+CCTV4,http://123.116.138.34:4022/rtp/239.3.1.105:8092
+CCTV4,http://61.48.31.231:1314/rtp/239.3.1.105:8092
+CCTV4,http://175.9.161.233:8989/udp/239.76.246.154:1234
 CCTV4,rtsp://27.148.219.129:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ua7JKAOanUQE3SUt988pGyyEzRyUwU0evCPJtTeGO8KhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV4,http://626.myds.me:8888/rtp/239.49.8.131:6000$江苏电信
 
+CCTV5,http://58.37.189.47:8088/udp/239.45.1.69:5140
+CCTV5,http://123.116.138.34:4022/rtp/239.3.1.173:8001
+CCTV5,http://61.48.31.231:1314/rtp/239.3.1.173:8001
+CCTV5,http://175.9.161.233:8989/udp/239.76.246.155:1234
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,http://183.135.226.196:4022/rtp/233.50.201.197:5140$浙江电信
 
+CCTV5+,http://123.116.138.34:4022/rtp/239.3.1.130:8004
+CCTV5+,http://61.48.31.231:1314/rtp/239.3.1.130:8004
+CCTV5+,http://175.9.161.233:8989/udp/239.76.246.168:1234
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+,http://183.135.226.196:4022/rtp/233.50.201.220:5140$浙江电信
 CCTV5+,rtsp://27.148.219.129:554/live/ch17092110522954055086.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110522954055086&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3LhGOtm6HMBkO7D9Dxc9Kd8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV5+,http://27.148.240.138/PLTV/88888888/224/3221226850/1.m3u8
 
+CCTV6,http://58.37.189.47:8088/udp/239.45.1.70:5140
+CCTV6,http://123.116.138.34:4022/rtp/239.3.1.174:8001
+CCTV6,http://61.48.31.231:1314/rtp/239.3.1.174:8001
+CCTV6,http://175.9.161.233:8989/udp/239.76.246.156:1234
 CCTV6,http://183.135.226.196:4022/rtp/233.50.201.198:5140$浙江电信
 CCTV6,http://27.148.240.138/PLTV/88888888/224/3221227089/1.m3u8
 
+CCTV7,http://58.37.189.47:8088/udp/239.45.3.56:5140
+CCTV7,http://123.116.138.34:4022/rtp/239.3.1.61:8104
+CCTV7,http://61.48.31.231:1314/rtp/239.3.1.61:8104
+CCTV7,http://175.9.161.233:8989/udp/239.76.246.157:1234
 CCTV7,http://183.135.226.196:4022/rtp/233.50.201.120:5140$浙江电信
 CCTV7,rtsp://27.148.219.129:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208080814677315&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJfeqIynThSnMQUlmZG4XzktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV7,http://27.148.240.138/PLTV/88888888/224/3221226780/1.m3u8
 
+CCTV8,http://58.37.189.47:8088/udp/239.45.1.71:5140
+CCTV8,http://123.116.138.34:4022/rtp/239.3.1.175:8001
+CCTV8,http://61.48.31.231:1314/rtp/239.3.1.175:8001
+CCTV8,http://175.9.161.233:8989/udp/239.76.246.158:1234
 CCTV8,http://183.135.226.196:4022/rtp/233.50.201.199:5140$浙江电信
 CCTV8,http://27.148.240.138/PLTV/88888888/224/3221227120/1.m3u8
 
+CCTV9,http://58.37.189.47:8088/udp/239.45.3.4:5140
+CCTV9,http://123.116.138.34:4022/rtp/239.3.1.62:8112
+CCTV9,http://61.48.31.231:1314/rtp/239.3.1.62:8112
+CCTV9,http://175.9.161.233:8989/udp/239.76.246.159:1234
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV9,http://183.135.226.196:4022/rtp/233.50.201.121:5140$浙江电信
 CCTV9,rtsp://27.148.219.129:554/live/ch17092110534875474266.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110534875474266&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3Kqp8Lff1Wxsu5nFcCGQLsPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV9,http://27.148.240.138/PLTV/88888888/224/3221226849/1.m3u8
 
+CCTV10,http://58.37.189.47:8088/udp/239.45.3.8:5140
+CCTV10,http://123.116.138.34:4022/rtp/239.3.1.63:8116
+CCTV10,http://61.48.31.231:1314/rtp/239.3.1.63:8116
+CCTV10,http://175.9.161.233:8989/udp/239.76.246.160:1234
 CCTV10,http://183.135.226.196:4022/rtp/233.50.201.122:5140$浙江电信
 CCTV10,rtsp://27.148.219.129:554/live/ch17092208093413465804.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208093413465804&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwK40i0QqJ17krMIpXhU61QbtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV10,http://27.148.240.138/PLTV/88888888/224/3221226779/1.m3u8
 
+CCTV11,http://58.37.189.47:8088/udp/239.45.1.196:5140
+CCTV11,http://123.116.138.34:4022/rtp/239.3.1.152:8120
+CCTV11,http://61.48.31.231:1314/rtp/239.3.1.152:8120
+CCTV11,http://175.9.161.233:8989/udp/239.76.245.251:1234
 CCTV11,http://183.135.226.196:4022/rtp/233.50.201.11:5140$浙江电信
 CCTV11,rtsp://27.148.219.129:554/live/ch15102717162059665205.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162059665205&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkXO1CnGiUxdVsBVTaMwuPutcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV11,http://27.148.240.138/PLTV/88888888/224/3221226888/1.m3u8
 
+CCTV12,http://58.37.189.47:8088/udp/239.45.3.10:5140
+CCTV12,http://123.116.138.34:4022/rtp/239.3.1.64:8124
+CCTV12,http://61.48.31.231:1314/rtp/239.3.1.64:8124
+CCTV12,http://175.9.161.233:8989/udp/239.76.246.162:1234
 CCTV12,http://183.135.226.196:4022/rtp/233.50.201.123:5140$浙江电信
 CCTV12,rtsp://27.148.219.129:554/live/ch17092208110147271148.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208110147271148&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOwv5iRHMQ%2Bj40nXbfAhXLb5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV12,http://27.148.240.138/PLTV/88888888/224/3221226792/1.m3u8
 
+CCTV13,http://123.116.138.34:4022/rtp/239.3.1.124:8128
+CCTV13,http://61.48.31.231:1314/rtp/239.3.1.124:8128
 CCTV13,http://183.135.226.196:4022/rtp/233.50.201.246:5140$浙江电信
 CCTV13,rtsp://27.148.219.129:554/live/ch15102717162008550635.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162008550635&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlCf4M6F2bL2ubFe6Qfj5LgtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV13,http://27.148.240.138/PLTV/88888888/224/3221226769/1.m3u8
 CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 
+CCTV14,http://58.37.189.47:8088/udp/239.45.3.23:5140
+CCTV14,http://123.116.138.34:4022/rtp/239.3.1.65:8132
+CCTV14,http://61.48.31.231:1314/rtp/239.3.1.65:8132
+CCTV14,http://175.9.161.233:8989/udp/239.76.246.164:1234
 CCTV14,http://183.135.226.196:4022/rtp/233.50.201.124:5140$浙江电信
 CCTV14,rtsp://27.148.219.129:554/live/ch17092208120898287250.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOyv5DUtRd8oc%2BQ%2Bby%2FK7so4tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV14,,http://27.148.240.138/PLTV/88888888/224/3221226762/1.m3u8
 
+CCTV15,http://58.37.189.47:8088/udp/239.45.1.200:5140
+CCTV15,http://123.116.138.34:4022/rtp/239.3.1.153:8136
+CCTV15,http://61.48.31.231:1314/rtp/239.3.1.153:8136
+CCTV15,http://111.75.151.236:50085/newlive/live/hls/15/live.m3u8
+CCTV15,http://175.9.161.233:8989/udp/239.76.245.252:1234
 CCTV15,http://183.135.226.196:4022/rtp/233.50.201.15:5140$浙江电信
 CCTV15,rtsp://27.148.219.129:554/live/ch15102717162037072744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162037072744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvY2g8SzF4nir%2FMoPrl55otcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV15,http://27.148.240.138/PLTV/88888888/224/3221226775/1.m3u8
 
+CCTV16,http://123.116.138.34:4022/rtp/239.3.1.184:8001
+CCTV16,http://61.48.31.231:1314/rtp/239.3.1.184:8001
+CCTV16,http://175.9.161.233:8989/udp/239.76.246.98:1234
 CCTV16,http://183.135.226.196:4022/rtp/233.50.201.192:5140$浙江电信
 CCTV16,http://27.148.240.138/PLTV/88888888/224/3221227352/1.m3u8
 
+CCTV17,http://58.37.189.47:8088/udp/239.45.3.52:5140
+CCTV17,http://123.116.138.34:4022/rtp/239.3.1.151:8144
+CCTV17,http://61.48.31.231:1314/rtp/239.3.1.151:8144
+CCTV17,http://175.9.161.233:8989/udp/239.76.245.238:1234
 CCTV17,http://183.135.226.196:4022/rtp/233.50.201.35:5140$浙江电信
 CCTV17,rtsp://27.148.219.129:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19073116244855666953&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uYlmqEeSiY7ilafGBzytHgeQXMXS1D9Bq7YYS3stvjq5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
@@ -69,249 +138,257 @@ CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
 
 
 卫视频道,#genre#
+厦门卫视,http://123.116.138.34:4022/rtp/239.3.1.143:4120
+厦门卫视,http://61.48.31.231:1314/rtp/239.3.1.143:4120
+厦门卫视,http://60.174.40.117:9901/tsfile/live/0129_1.m3u8
 厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 厦门卫视,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
 
 海峡卫视,rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubtTdIJCMYA5YzDa0YF1fIC2cN8doK0zGTVUThL7iS22tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 海峡卫视,http://27.148.240.138/PLTV/88888888/224/3221226748/1.m3u8
 
+东南卫视,http://58.37.189.47:8088/udp/239.45.1.121:5140
+东南卫视,http://123.116.138.34:4022/rtp/239.3.1.156:8148
+东南卫视,http://61.48.31.231:1314/rtp/239.3.1.156:8148
+东南卫视,http://175.9.161.233:8989/udp/239.76.245.190:1234
 东南卫视,rtsp://27.148.219.129:554/live/ch16042815324509410461.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16042815324509410461&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uVjKIGPXSLrTux8z3WpvG0ppRRvXyWYHYAXshGmKlw6TtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-东南卫视,http://muheart.3322.org:18216/rtp/239.93.0.42:5140
-东南卫视,http://newzxl.top:4022/rtp/239.253.92.201:6146
-东南卫视,http://sx.liuyun.wang:88/live/ysp.php?id=dnws
-东南卫视,http://muheart.3322.org:18216/rtp/239.93.1.201:5140
 
+东方卫视,http://222.65.134.204:10000/udp/239.45.3.146:5140
+东方卫视,http://123.116.138.34:4022/rtp/239.3.1.136:8032
+东方卫视,http://58.37.189.47:8088/udp/239.45.3.146:5140
+东方卫视,http://175.9.161.233:8989/udp/239.76.246.186:1234
 东方卫视,rtsp://27.148.219.129:554/live/ch15102717162086242155.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162086242155&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnoE48cDP3VQ84hqDmstY5CtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
-东方卫视,http://muheart.3322.org:18216/rtp/239.93.0.123:5140
 东方卫视,http://27.148.240.138/PLTV/88888888/224/3221227281/1.m3u8
-东方卫视,http://newzxl.top:4022/rtp/239.253.92.89:8019
-东方卫视,http://sx.liuyun.wang:88/live/migu.php?id=dfws
-东方卫视,http://sx.liuyun.wang:88/live/migu.php?id=dfws2
-东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=4a54563fdc3cf8d5dcd6146d96abd9b6&volcTime=1701436815
-东方卫视,http://muheart.3322.org:18216/rtp/239.93.1.44:5140
+
 
 浙江卫视,rtsp://27.148.219.129:554/live/ch15102717162191956583.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162191956583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrksirwnBar1B9u3S5%2BTNWw4tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-浙江卫视,http://muheart.3322.org:18216/rtp/239.93.0.124:5140
 浙江卫视,http://27.148.240.138/PLTV/88888888/224/3221227226/1.m3u8
-浙江卫视,http://newzxl.top:4022/rtp/239.253.92.90:8020
-浙江卫视,http://sx.liuyun.wang:88/live/ysp.php?id=zjws
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
-浙江卫视,http://muheart.3322.org:18216/rtp/239.93.1.6:5140
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 
+江苏卫视,http://58.37.189.47:8088/udp/239.45.3.177:5140
+江苏卫视,http://123.116.138.34:4022/rtp/239.3.1.135:8028
+江苏卫视,http://61.48.31.231:1314/rtp/239.3.1.135:8028
+江苏卫视,http://175.9.161.233:8989/udp/239.76.246.181:1234
 江苏卫视,rtsp://27.148.219.129:554/live/ch15102717162168388215.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162168388215&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmNIYM2Zss6bDqSwRNobsJhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
-江苏卫视,http://muheart.3322.org:18216/rtp/239.93.0.89:5140
 江苏卫视,http://27.148.240.138/PLTV/88888888/224/3221227312/1.m3u8
-江苏卫视,http://newzxl.top:4022/rtp/239.253.92.88:8018
-江苏卫视,http://sx.liuyun.wang:88/live/migu.php?id=jsws
-江苏卫视,http://muheart.3322.org:18216/rtp/239.93.1.45:5140
 
+湖南卫视,http://58.37.189.47:8088/udp/239.45.3.228:5140
+湖南卫视,http://123.116.138.34:4022/rtp/239.3.1.132:8012
+湖南卫视,http://61.48.31.231:1314/rtp/239.3.1.132:8012
+湖南卫视,http://175.9.161.233:8989/udp/239.76.245.115:1234
+湖南卫视,http://120.7.86.41:808/hls/18/index.m3u8
 湖南卫视,rtsp://27.148.219.129:554/live/ch15102717162145789452.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162145789452&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlo5IKcht21qLksibFAyWsKtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-湖南卫视,http://muheart.3322.org:18216/rtp/239.93.0.88:5140
 湖南卫视,http://27.148.240.138/PLTV/88888888/224/3221227238/1.m3u8
-湖南卫视,http://sx.liuyun.wang:88/live/migu.php?id=hunws
-湖南卫视,http://sx.liuyun.wang:88/live/ysp.php?id=hunws
-湖南卫视,http://muheart.3322.org:18216/rtp/239.93.1.46:5140
 
+湖北卫视,http://58.37.189.47:8088/udp/239.45.3.239:5140
+湖北卫视,http://123.116.138.34:4022/rtp/239.3.1.138:8044
+湖北卫视,http://61.48.31.231:1314/rtp/239.3.1.138:8044
+湖北卫视,http://175.9.161.233:8989/udp/239.76.246.193:1234
 湖北卫视,rtsp://27.148.219.129:554/live/ch15111011082361717939.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15111011082361717939&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZJkn4peSC6wyRToTctCaeoziALnewbiLKmADJ%2Bhpw6YtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
-湖北卫视,http://muheart.3322.org:18216/rtp/239.93.0.250:5140
-湖北卫视,http://newzxl.top:4022/rtp/239.253.92.210:6567
-湖北卫视,http://sx.liuyun.wang:88/live/migu.php?id=hubws
-湖北卫视,http://sx.liuyun.wang:88/live/ysp.php?id=hubws
-湖北卫视,http://muheart.3322.org:18216/rtp/239.93.0.115:5140
 
+安徽卫视,http://58.37.189.47:8088/udp/239.45.1.120:5140
+安徽卫视,http://123.116.138.34:4022/rtp/239.3.1.211:8064
+安徽卫视,http://61.48.31.231:1314/rtp/239.3.1.211:8064
+安徽卫视,http://175.9.161.233:8989/udp/239.76.245.196:1234
 安徽卫视,rtsp://27.148.219.129:554/live/ch18100816341109258484.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18100816341109258484&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uU1eF6RvYf0mbTK7y7EHzoPBjHUHfaYYjPYL56%2FO5WMTtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-安徽卫视,http://muheart.3322.org:18216/rtp/239.93.1.106:5140
 安徽卫视,http://27.148.240.138/PLTV/88888888/224/3221227301/1.m3u8
-安徽卫视,http://newzxl.top:4022/rtp/239.253.92.209:6566
-安徽卫视,http://sx.liuyun.wang:88/live/ysp.php?id=ahws
 安徽卫视,http://live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-安徽卫视,http://muheart.3322.org:18216/rtp/239.93.1.166:5140
 
+北京卫视,http://58.37.189.47:8088/udp/239.45.3.229:5140
+北京卫视,http://123.116.138.34:4022/rtp/239.3.1.241:8000
+北京卫视,http://61.48.31.231:1314/rtp/239.3.1.241:8000
+北京卫视,http://175.9.161.233:8989/udp/239.76.246.184:1234
+北京卫视,http://61.182.33.218:8000/hls/19/index.m3u8
 北京卫视,rtsp://27.148.219.129:554/live/ch15102717162108426467.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162108426467&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkFKcahlHxGvQw%2Bn1Pd%2FELktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-北京卫视,http://muheart.3322.org:18216/rtp/239.93.0.180:5140
 北京卫视,http://27.148.240.138/PLTV/88888888/224/3221227234/1.m3u8
-北京卫视,http://newzxl.top:4022/rtp/239.253.92.87:8014
-北京卫视,http://sx.liuyun.wang:88/live/migu.php?id=bjws
-北京卫视,http://sx.liuyun.wang:88/live/ysp.php?id=bjws
 北京卫视,http://live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-北京卫视,http://muheart.3322.org:18216/rtp/239.93.1.66:5140
 
+天津卫视,http://58.37.189.47:8088/udp/239.45.1.124:5140
+天津卫视,http://123.116.138.34:4022/rtp/239.3.1.141:1234
+天津卫视,http://61.48.31.231:1314/rtp/239.3.1.141:1234
+天津卫视,http://175.9.161.233:8989/udp/239.76.246.185:1234
+天津卫视,http://111.75.151.236:50085/newlive/live/hls/28/live.m3u8
 天津卫视,rtsp://27.148.219.129:554/live/ch18010423254205139387.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423254205139387&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriXffCP1YLxZywS5finID4X5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
-天津卫视,http://muheart.3322.org:18216/rtp/239.93.0.167:5140
 天津卫视,http://27.148.240.138/PLTV/88888888/224/3221227222/1.m3u8
-天津卫视,http://newzxl.top:4022/rtp/239.253.92.91:8021
-天津卫视,http://sx.liuyun.wang:88/live/ysp.php?id=tjws
 天津卫视,http://live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-天津卫视,http://muheart.3322.org:18216/rtp/239.93.1.134:5140
 
+广东卫视,http://58.37.189.47:8088/udp/239.45.3.230:5140
+广东卫视,http://123.116.138.34:4022/rtp/239.3.1.142:8048
+广东卫视,http://61.48.31.231:1314/rtp/239.3.1.142:8048
+广东卫视,http://175.9.161.233:8989/udp/239.76.245.189:1234
 广东卫视,rtsp://27.148.219.129:554/live/ch15102717162184416594.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162184416594&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkGU1bqbl%2FYuy2e0PG2wNtWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-广东卫视,http://muheart.3322.org:18216/rtp/239.93.0.181:5140
 广东卫视,http://27.148.240.138/PLTV/88888888/224/3221227218/1.m3u8
-广东卫视,http://newzxl.top:4022/rtp/239.253.92.206:8108
-广东卫视,http://sx.liuyun.wang:88/live/migu.php?id=gdws2
-广东卫视,http://sx.liuyun.wang:88/live/ysp.php?id=gdws
-广东卫视,http://muheart.3322.org:18216/rtp/239.93.0.201:5140
 
+广西卫视,http://58.37.189.47:8088/udp/239.45.0.5:5140
+广西卫视,http://123.116.138.34:4022/rtp/239.3.1.39:8300
+广西卫视,http://61.48.31.231:1314/rtp/239.3.1.39:8300
 广西卫视,rtsp://27.148.219.129:554/live/ch15102717162178038031.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162178038031&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnzsBuHRdt7wnKFD0pPIWSftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-广西卫视,http://muheart.3322.org:18216/rtp/239.93.42.46:5140
 广西卫视,http://27.148.240.138/PLTV/88888888/224/3221227328/1.m3u8
-广西卫视,http://newzxl.top:4022/rtp/239.253.92.76:8043
-广西卫视,http://sx.liuyun.wang:88/live/ysp.php?id=gxws
-广西卫视,http://muheart.3322.org:18216/rtp/239.93.1.203:5140
 
+
+江西卫视,http://123.118.4.153:4022/rtp/239.3.1.123:8164
+江西卫视,http://115.199.104.218:9999/rtp/233.50.201.145:5140
 江西卫视,rtsp://27.148.219.129:554/live/ch18010423261264213862.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423261264213862&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriUIWq3Hq%2FxniEnPCXEixybhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
-江西卫视,http://muheart.3322.org:18216/rtp/239.93.0.134:5140
 江西卫视,http://27.148.240.138/PLTV/88888888/224/3221227304/1.m3u8
-江西卫视,http://newzxl.top:4022/rtp/239.253.92.19:6145
-江西卫视,http://sx.liuyun.wang:88/live/ysp.php?id=jxws
-江西卫视,http://muheart.3322.org:18216/rtp/239.93.1.19:5140
 
+深圳卫视,http://58.37.189.47:8088/udp/239.45.3.231:5140
+深圳卫视,http://123.116.138.34:4022/rtp/239.3.1.134:8020
+深圳卫视,http://61.48.31.231:1314/rtp/239.3.1.134:8020
+深圳卫视,http://175.9.161.233:8989/udp/239.76.246.188:1234
 深圳卫视,http://27.148.240.138/PLTV/88888888/224/3221227285/1.m3u8
-深圳卫视,http://muheart.3322.org:18216/rtp/239.93.0.182:5140
-深圳卫视,http://newzxl.top:4022/rtp/239.253.92.86:8017
-深圳卫视,http://sx.liuyun.wang:88/live/ysp.php?id=szws
-深圳卫视,http://muheart.3322.org:18216/rtp/239.93.1.21:5140
 
+辽宁卫视,http://58.37.189.47:8088/udp/239.45.1.123:5140
+辽宁卫视,http://123.116.138.34:4022/rtp/239.3.1.210:8056
+辽宁卫视,http://61.48.31.231:1314/rtp/239.3.1.210:8056
+辽宁卫视,http://175.9.161.233:8989/udp/239.76.245.197:1234
 辽宁卫视,rtsp://27.148.219.129:554/live/ch18010423255574195595.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423255574195595&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriXgD1uF4Qnrn7rUlS3MhdE0tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
-辽宁卫视,http://muheart.3322.org:18216/rtp/239.93.1.108:5140
 辽宁卫视,http://27.148.240.138/PLTV/88888888/224/3221227242/1.m3u8
-辽宁卫视,http://newzxl.top:4022/rtp/239.253.92.115:6056
-辽宁卫视,http://sx.liuyun.wang:88/live/ysp.php?id=lnws
-辽宁卫视,http://muheart.3322.org:18216/rtp/239.93.1.167:5140
 
+重庆卫视,http://58.37.189.47:8088/udp/239.45.1.84:5140 
+重庆卫视,http://123.116.138.34:4022/rtp/239.3.1.122:8160
+重庆卫视,http://61.48.31.231:1314/rtp/239.3.1.122:8160
+重庆卫视,http://175.9.161.233:8989/udp/239.76.246.92:1234
 重庆卫视,rtsp://27.148.219.129:554/live/ch18111315305080098570.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18111315305080098570&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufWZ3EBMxzTZiJKrPuww3bJ2CT4aMMV7ICYT2bZaHiSatcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-重庆卫视,http://muheart.3322.org:18216/rtp/239.93.1.107:5140
 重庆卫视,http://27.148.240.138/PLTV/88888888/224/3221227293/1.m3u8
-重庆卫视,http://newzxl.top:4022/rtp/239.253.92.10:6053
-重庆卫视,http://sx.liuyun.wang:88/live/ysp.php?id=cqws
-重庆卫视,http://muheart.3322.org:18216/rtp/239.93.0.119:5140
 
+贵州卫视,http://58.37.189.47:8088/udp/239.45.1.80:5140
+贵州卫视,http://123.116.138.34:4022/rtp/239.3.1.149:8076
+贵州卫视,http://61.48.31.231:1314/rtp/239.3.1.149:8076
+贵州卫视,http://175.9.161.233:8989/udp/239.76.245.198:1234
 贵州卫视,rtsp://27.148.219.129:554/live/ch17041215341272355599.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17041215341272355599&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucF7p3Mh2bbrj5hDT7vBbGIpAjnKW492C9O3BZnUgHKRtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-贵州卫视,http://muheart.3322.org:18216/rtp/239.93.0.131:5140
 贵州卫视,http://27.148.240.138/PLTV/88888888/224/3221227277/1.m3u8
-贵州卫视,http://newzxl.top:4022/rtp/239.253.92.105:6055
-贵州卫视,http://sx.liuyun.wang:88/live/ysp.php?id=gzws
-贵州卫视,http://muheart.3322.org:18216/rtp/239.93.1.200:5140
 
+山东卫视,http://58.37.189.47:8088/udp/239.45.3.238:5140
+山东卫视,http://123.116.138.34:4022/rtp/239.3.1.209:8052
+山东卫视,http://61.48.31.231:1314/rtp/239.3.1.209:8052
+山东卫视,http://175.9.161.233:8989/udp/239.76.246.195:1234
 山东卫视,rtsp://27.148.219.129:554/live/ch15111011110075906735.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15111011110075906735&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uSn%2BAs55lVZTrBnprv%2BykPK3ti0KC0fE6axIrc7OQGx3tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
-山东卫视,http://muheart.3322.org:18216/rtp/239.93.0.168:5140
 山东卫视,http://27.148.240.138/PLTV/88888888/224/3221227300/1.m3u8
-山东卫视,http://newzxl.top:4022/rtp/239.253.92.207:8109
-山东卫视,http://sx.liuyun.wang:88/live/ysp.php?id=sdws
-山东卫视,http://muheart.3322.org:18216/rtp/239.93.0.229:5140
 
+山西卫视,http://58.37.189.47:8088/udp/239.45.1.229:5140 
+山西卫视,http://123.116.138.34:4022/rtp/239.3.1.42:8172
+山西卫视,http://61.48.31.231:1314/rtp/239.3.1.42:8172
+山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 山西卫视,rtsp://27.148.219.129:554/live/ch18051116203766478580.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116203766478580&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WGHYsv%2F9WxEmm88g%2FBum4iWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-山西卫视,http://muheart.3322.org:18216/rtp/239.93.0.6:5140
 山西卫视,http://27.148.240.138/PLTV/88888888/224/3221227323/1.m3u8
-山西卫视,http://muheart.3322.org:18216/rtp/239.93.1.207:5140
 
+海南卫视,http://58.37.189.47:8088/udp/239.45.1.81:5140 
+海南卫视,http://123.116.138.34:4022/rtp/239.3.1.45:8304
+海南卫视,http://61.48.31.231:1314/rtp/239.3.1.45:8304
+海南卫视,http://175.9.161.233:8989/udp/239.76.246.203:1234
 海南卫视,rtsp://27.148.219.129:554/live/ch15102717162116408744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162116408744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkAhTEp3jZtlML3HURzqTHztcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-海南卫视,http://muheart.3322.org:18216/rtp/239.93.0.80:5140
 海南卫视,http://27.148.240.138/PLTV/88888888/224/3221227320/1.m3u8
-海南卫视,http://newzxl.top:4022/rtp/239.253.93.155:6323
-海南卫视,http://sx.liuyun.wang:88/live/ysp.php?id=hinws
 
+吉林卫视,http://58.37.189.47:8088/udp/239.45.0.6:5140
+吉林卫视,http://123.116.138.34:4022/rtp/239.3.1.240:8172
+吉林卫视,http://61.48.31.231:1314/rtp/239.3.1.240:8172
+吉林卫视,http://175.9.161.233:8989/udp/239.76.246.201:1234
 吉林卫视,rtsp://27.148.219.129:554/live/ch18051116194226346624.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116194226346624&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5udseqSJ41QEB301Df1aywHdVRJD3o1mBshsPr3hVu%2BEQtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-吉林卫视,http://muheart.3322.org:18216/rtp/239.93.0.248:5140
 吉林卫视,http://27.148.240.138/PLTV/88888888/224/3221227273/1.m3u8
-吉林卫视,http://newzxl.top:4022/rtp/239.253.92.202:6147
-吉林卫视,http://sx.liuyun.wang:88/live/migu.php?id=jlws
-吉林卫视,http://muheart.3322.org:18216/rtp/239.93.1.204:5140
 
+四川卫视,http://58.37.189.47:8088/udp/239.45.1.83:5140
+四川卫视,http://123.116.138.34:4022/rtp/239.3.1.29:8288
+四川卫视,http://61.48.31.231:1314/rtp/239.3.1.29:8288
+四川卫视,http://175.9.161.233:8989/udp/239.76.246.91:1234
 四川卫视,rtsp://27.148.219.129:554/live/ch18111315332814229891.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18111315332814229891&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufWZ3EBMxzTZiJKrPuww3bIuRLc0Ijl9Db2%2BCzbFOhxptcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-四川卫视,http://muheart.3322.org:18216/rtp/239.93.0.20:1235
 四川卫视,http://27.148.240.138/PLTV/88888888/224/3221227289/1.m3u8
-四川卫视,http://newzxl.top:4022/rtp/239.253.92.16:6043
-四川卫视,http://sx.liuyun.wang:88/live/ysp.php?id=scws
-四川卫视,http://muheart.3322.org:18216/rtp/239.93.0.128:5140
 
+河南卫视,http://58.37.189.47:8088/udp/239.45.0.3:5140 
+河南卫视,http://123.116.138.34:4022/rtp/239.3.1.27:8128
+河南卫视,http://61.48.31.231:1314/rtp/239.3.1.27:8128
+河南卫视,http://175.9.161.233:8989/udp/239.76.246.202:1234
 河南卫视,rtsp://27.148.219.129:554/live/ch15102717162143318342.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162143318342&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnSJc6hJod%2BSuIOCykX8ZH7tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-河南卫视,http://muheart.3322.org:18216/rtp/239.93.42.45:5140
-河南卫视,http://sx.liuyun.wang:88/live/ysp.php?id=hnws
 河南卫视,http://27.148.240.138/PLTV/88888888/224/3221227308/1.m3u8
-河南卫视,http://newzxl.top:4022/rtp/239.253.92.137:6144
-河南卫视,http://muheart.3322.org:18216/rtp/239.93.1.169:5140
 
+河北卫视,http://58.37.189.47:8088/udp/239.45.1.44:5140
+河北卫视,http://123.116.138.34:4022/rtp/239.3.1.148:8072
+河北卫视,http://61.48.31.231:1314/rtp/239.3.1.148:8072
+河北卫视,http://175.9.161.233:8989/udp/239.76.245.199:1234
 河北卫视,rtsp://27.148.219.129:554/live/ch15102717162108825623.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162108825623&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnl52k%2B0%2B2f7kafhenERSbFtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-河北卫视,http://muheart.3322.org:18216/rtp/239.93.0.132:5140
 河北卫视,http://27.148.240.138/PLTV/88888888/224/3221227316/1.m3u8
-河北卫视,http://sx.liuyun.wang:88/live/ysp.php?id=hbws
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
-河北卫视,http://muheart.3322.org:18216/rtp/239.93.1.202:5140
 
+陕西卫视,http://58.37.189.47:8088/udp/239.45.1.232:5140
+陕西卫视,http://123.116.138.34:4022/rtp/239.3.1.41:8140
+陕西卫视,http://61.48.31.231:1314/rtp/239.3.1.41:8140
 陕西卫视,rtsp://27.148.219.129:554/live/ch15102717162169622851.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162169622851&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrm4niuoC3D0mu%2FnQXwXjvnUtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-陕西卫视,http://muheart.3322.org:18216/rtp/239.93.0.176:5140
 陕西卫视,http://27.148.240.138/PLTV/88888888/224/3221227324/1.m3u8
-陕西卫视,http://sx.liuyun.wang:88/live/migu.php?id=sxws
-陕西卫视,http://muheart.3322.org:18216/rtp/239.93.1.205:5140
 
+黑龙江卫视,http://58.37.189.47:8088/udp/239.45.3.232:5140
+黑龙江卫视,http://123.116.138.34:4022/rtp/239.3.1.133:8016
+黑龙江卫视,http://61.48.31.231:1314/rtp/239.3.1.133:8016
+黑龙江卫视,http://175.9.161.233:8989/udp/239.76.246.200:1234
 黑龙江卫视,rtsp://27.148.219.129:554/live/ch15102717162113164781.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162113164781&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrm14jVTrqgBjl03Q87RR1JDtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-黑龙江卫视,http://muheart.3322.org:18216/rtp/239.93.0.183:5140
 黑龙江卫视,http://27.148.240.138/PLTV/88888888/224/3221227319/1.m3u8
-黑龙江卫视,http://newzxl.top:4022/rtp/239.253.92.85:8016
-黑龙江卫视,http://sx.liuyun.wang:88/live/ysp.php?id=hljws
-黑龙江卫视,http://muheart.3322.org:18216/rtp/239.93.0.231:5140
 
+内蒙古卫视,http://58.37.189.47:8088/udp/239.45.1.238:5140
+内蒙古卫视,http://123.116.138.34:4022/rtp/239.3.1.43:8176
+内蒙古卫视,http://61.48.31.231:1314/rtp/239.3.1.43:8176
 内蒙古卫视,rtsp://27.148.219.129:554/live/ch18051116231710747191.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116231710747191&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHWF3lihd6Coe8K%2BWYlaKx6tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-内蒙古卫视,http://muheart.3322.org:18216/rtp/239.93.0.8:5140
 内蒙古卫视,http://27.148.240.138/PLTV/88888888/224/3221227309/1.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-内蒙古卫视,http://muheart.3322.org:18216/rtp/239.93.1.208:5140
 
 青海卫视,rtsp://27.148.219.129:554/live/ch15102717162187662339.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162187662339&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlWw%2FGaTOI%2Bhr3ARcY4BGUctcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-青海卫视,http://muheart.3322.org:18216/rtp/239.93.0.192:5140
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=0d2f91cb1701350757
-青海卫视,http://muheart.3322.org:18216/rtp/239.93.1.209:5140
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 
+云南卫视,http://58.37.189.47:8088/udp/239.45.0.4:5140
+云南卫视,http://123.116.138.34:4022/rtp/239.3.1.26:8108
+云南卫视,http://61.48.31.231:1314/rtp/239.3.1.26:8108
 云南卫视,rtsp://27.148.219.129:554/live/ch15102717162125393898.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162125393898&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrk2EGR42Q3pRUep%2FWHWmwB%2FtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-云南卫视,http://muheart.3322.org:18216/rtp/239.93.1.168:5140
 
+宁夏卫视,http://58.37.189.47:8088/udp/239.45.1.213:5140
+宁夏卫视,http://123.116.138.34:4022/rtp/239.3.1.46:8124
+宁夏卫视,http://61.48.31.231:1314/rtp/239.3.1.46:8124
 宁夏卫视,rtsp://27.148.219.129:554/live/ch15102717162173773216.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162173773216&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmCK%2BVOEQ6wntynUQMO%2B%2Bl6tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-宁夏卫视,http://muheart.3322.org:18216/rtp/239.93.0.247:5140
 宁夏卫视,http://27.148.240.138/PLTV/88888888/224/3221227305/1.m3u8
-宁夏卫视,http://sx.liuyun.wang:88/live/migu.php?id=nxws
-宁夏卫视,http://muheart.3322.org:18216/rtp/239.93.1.212:5140
 
+甘肃卫视,http://58.37.189.47:8088/udp/239.45.1.234:5140
+甘肃卫视,http://123.116.138.34:4022/rtp/239.3.1.49:8188
+甘肃卫视,http://61.48.31.231:1314/rtp/239.3.1.49:8188
+甘肃卫视,http://175.9.161.233:8989/udp/239.76.246.94:1234
 甘肃卫视,rtsp://27.148.219.129:554/live/ch18051116230173626842.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116230173626842&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WEFXv9foar%2FgsilZ%2BSoMONqtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-甘肃卫视,http://muheart.3322.org:18216/rtp/239.93.0.81:5140
 甘肃卫视,http://27.148.240.138/PLTV/88888888/224/3221227246/1.m3u8
-甘肃卫视,http://sx.liuyun.wang:88/live/migu.php?id=gsws
-甘肃卫视,http://muheart.3322.org:18216/rtp/239.93.1.215:5140
 
+新疆卫视,http://58.37.189.47:8088/udp/239.45.1.116:5140
+新疆卫视,http://123.116.138.34:4022/rtp/239.3.1.48:8160
+新疆卫视,http://61.48.31.231:1314/rtp/239.3.1.48:8160
 新疆卫视,rtsp://27.148.219.129:554/live/ch18051116232899271583.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116232899271583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHK1A6S4YLl%2B7fwO4FPMSawtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 新疆卫视,http://27.148.240.138/PLTV/88888888/224/3221227332/1.m3u8
-新疆卫视,http://sx.liuyun.wang:88/live/ysp.php?id=xjws
 
+西藏卫视,http://58.37.189.47:8088/udp/239.45.1.231:5140
+西藏卫视,http://123.116.138.34:4022/rtp/239.3.1.47:8164
+西藏卫视,http://61.48.31.231:1314/rtp/239.3.1.47:8164
+西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8
 西藏卫视,rtsp://27.148.219.129:554/live/ch18051116234822851422.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116234822851422&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WE5xxsx1EIl%2FLE%2FjBC7Ww1utcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-西藏卫视,http://muheart.3322.org:18216/rtp/239.93.0.175:5140
-西藏卫视,http://sx.liuyun.wang:88/live/migu.php?id=xzws
-西藏卫视,http://muheart.3322.org:18216/rtp/239.93.1.213:5140
 
+兵团卫视,http://58.37.189.47:8088/udp/239.45.1.117:5140
+兵团卫视,http://123.116.138.34:4022/rtp/239.3.1.144:4120
+兵团卫视,http://61.48.31.231:1314/rtp/239.3.1.144:4120
 兵团卫视,rtsp://27.148.219.129:554/live/ch18051116233733109443.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116233733109443&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHSiWmCfc%2FoLZl%2BOldAAC74tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-兵团卫视http://muheart.3322.org:18216/rtp/239.93.42.43:5140
 
+三沙卫视,http://58.37.189.47:8088/udp/239.45.1.82:5140 
+三沙卫视,http://123.116.138.34:4022/rtp/239.3.1.155:4120
+三沙卫视,http://61.48.31.231:1314/rtp/239.3.1.155:4120
+三沙卫视,http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 三沙卫视,rtsp://27.148.219.129:554/live/ch19091709173330412950.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19091709173330412950&ctype=2&TSTVTimeLife=604800&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uRBbvT7yDUDsLlcfEsy8IYra7Y9e5RZYRnCO7i6RYRYYtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-三沙卫视,http://muheart.3322.org:18216/rtp/239.93.42.58:5140
 
-延边卫视,http://muheart.3322.org:18216/rtp/239.93.0.249:5140
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
 大湾区卫视,rtsp://27.148.219.129:554/live/ch19011109345458761991.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19011109345458761991&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufavIPQgCSxklZguDbOHHTinAzEZnI%2BO0%2BGCmTfbtYmKtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-大湾区卫视,http://sx.liuyun.wang:88/live/migu.php?id=dwqws
+
 
 
 福建频道,#genre#
-厦门卫视,http://monkey25mo.x3322.net:8888/udp/239.77.0.96:5146
+厦门卫视,http://123.116.138.34:4022/rtp/239.3.1.143:4120
+厦门卫视,http://61.48.31.231:1314/rtp/239.3.1.143:4120
+厦门卫视,http://60.174.40.117:9901/tsfile/live/0129_1.m3u8
 厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 厦门卫视,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
 厦门一套,https://xiamenalic.v.myalicdn.com/xiamen/xiamen1_1/index.m3u8
 厦门二套,https://xiamenalic.v.myalicdn.com/xiamen/xiamen2_1/index.m3u8
+东南卫视,http://58.37.189.47:8088/udp/239.45.1.121:5140
+东南卫视,http://123.116.138.34:4022/rtp/239.3.1.156:8148
+东南卫视,http://61.48.31.231:1314/rtp/239.3.1.156:8148
+东南卫视,http://175.9.161.233:8989/udp/239.76.245.190:1234
 东南卫视,rtsp://27.148.219.129:554/live/ch16042815324509410461.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16042815324509410461&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uVjKIGPXSLrTux8z3WpvG0ppRRvXyWYHYAXshGmKlw6TtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-东南卫视,http://muheart.3322.org:18216/rtp/239.93.0.42:5140
-东南卫视,http://newzxl.top:4022/rtp/239.253.92.201:6146
-东南卫视,http://sx.liuyun.wang:88/live/ysp.php?id=dnws
-东南卫视,http://muheart.3322.org:18216/rtp/239.93.1.201:5140
 海峡卫视,rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubtTdIJCMYA5YzDa0YF1fIC2cN8doK0zGTVUThL7iS22tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 海峡卫视,http://27.148.240.138/PLTV/88888888/224/3221226748/1.m3u8
 泉州一套,https://live.qztv.cn/live/news.m3u8?auth_key=1700730227-0-0-9af70664ff86b3fa23661213b3730e20
@@ -367,15 +444,13 @@ CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
 
 
 广东频道,#genre#
+广东卫视,http://58.37.189.47:8088/udp/239.45.3.230:5140
+广东卫视,http://123.116.138.34:4022/rtp/239.3.1.142:8048
+广东卫视,http://61.48.31.231:1314/rtp/239.3.1.142:8048
+广东卫视,http://175.9.161.233:8989/udp/239.76.245.189:1234
 广东卫视,rtsp://27.148.219.129:554/live/ch15102717162184416594.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162184416594&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkGU1bqbl%2FYuy2e0PG2wNtWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-广东卫视,http://muheart.3322.org:18216/rtp/239.93.0.181:5140
 广东卫视,http://27.148.240.138/PLTV/88888888/224/3221227218/1.m3u8
-广东卫视,http://newzxl.top:4022/rtp/239.253.92.206:8108
-广东卫视,http://sx.liuyun.wang:88/live/migu.php?id=gdws2
-广东卫视,http://sx.liuyun.wang:88/live/ysp.php?id=gdws
-广东卫视,http://muheart.3322.org:18216/rtp/239.93.0.201:5140
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 深圳卫视,http://live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
