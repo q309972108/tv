@@ -442,8 +442,6 @@ CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
 
 大湾区卫视,rtsp://27.148.219.129:554/live/ch19011109345458761991.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19011109345458761991&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufavIPQgCSxklZguDbOHHTinAzEZnI%2BO0%2BGCmTfbtYmKtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
-
-
 福建频道,#genre#
 厦门卫视,http://123.116.138.34:4022/rtp/239.3.1.143:4120
 厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
@@ -497,21 +495,24 @@ CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
 民视,rtmp://220.130.201.73/sat/tv051
 民视,rtmp://f13h.mine.nu/sat/tv051
 
+中视,mitv://135.148.104.228:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
 中视,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=28
 中视,rtmp://220.130.201.73/sat/tv091
 中视,rtmp://f13h.mine.nu/sat/tv091
 
+华视,http://154.yfvodcdn.com:8080/live/ztylt13/hls.m3u8
+华视,mitv://135.148.104.228:19806/177390ae66634acca9be01242a769660
 华视,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=29
 华视,rtmp://220.130.201.73/sat/tv111
 华视,rtmp://f13h.mine.nu/sat/tv111
 
+台视,mitv://135.148.104.228:19806/9868c18e3c0940cd8aa003d9ae54f862
+台视,mitv://135.148.104.228:19806/3c20d4387ec845149b2ded5f28805f18
 台视,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=27
 台视,rtmp://220.130.201.73/sat/tv071
 台视,rtmp://f13h.mine.nu/sat/tv071
 
-
-
-
+公视,mitv://135.148.104.228:19806/5bc9388122b840f1abd2ff73c85049a6
 
 广东频道,#genre#
 广东卫视,http://58.37.189.47:8088/udp/239.45.3.230:5140
