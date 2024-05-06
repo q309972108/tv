@@ -1,31 +1,26 @@
 央视频道,#genre#
-CCTV1,http://123.116.138.34:4022/rtp/239.3.1.129:8008
-CCTV1,http://61.48.31.231:1314/rtp/239.3.1.129:8008
 CCTV1,http://27.148.240.138/PLTV/88888888/224/3221226773/1.m3u8
+CCTV1,http://61.48.31.231:1314/rtp/239.3.1.129:8008
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,http://218.29.135.6:4000/rtp/225.1.4.73:1102
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 
-CCTV2,http://123.116.138.34:4022/rtp/239.3.1.60:8084
-CCTV2,http://61.48.31.231:1314/rtp/239.3.1.60:8084
-CCTV2,http://175.9.161.233:8989/udp/239.76.246.152:1234
-CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-CCTV2,http://626.myds.me:8888/rtp/239.49.8.130:6000$江苏电信
 CCTV2,rtsp://27.148.219.129:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208064869858322&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJPPOs560ILJc4KpVFFgelPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV2,http://27.148.240.138/PLTV/88888888/224/3221226788/1.m3u8
+CCTV2,http://61.48.31.231:1314/rtp/239.3.1.60:8084
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV2,http://626.myds.me:8888/rtp/239.49.8.130:6000
 CCTV2,http://218.29.135.6:4000/rtp/225.1.4.74:1103
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 
 CCTV3,http://58.37.189.47:8088/udp/239.45.1.68:5140
-CCTV3,http://123.116.138.34:4022/rtp/239.3.1.172:8001
-CCTV3,http://61.48.31.231:1314/rtp/239.3.1.172:8001
-CCTV3,http://175.9.161.233:8989/udp/239.76.246.153:1234
 
-CCTV4,http://58.37.189.47:8088/udp/239.45.0.2:5140
-CCTV4,http://123.116.138.34:4022/rtp/239.3.1.105:8092
-CCTV4,http://61.48.31.231:1314/rtp/239.3.1.105:8092
-CCTV4,http://175.9.161.233:8989/udp/239.76.246.154:1234
 CCTV4,rtsp://27.148.219.129:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ua7JKAOanUQE3SUt988pGyyEzRyUwU0evCPJtTeGO8KhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-CCTV4,http://626.myds.me:8888/rtp/239.49.8.131:6000$江苏电信
+CCTV4,rtsp://27.148.219.129:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ua7JKAOanUQE3SUt988pGyyEzRyUwU0evCPJtTeGO8KhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+CCTV4,http://58.37.189.47:8088/udp/239.45.0.2:5140
+CCTV4,http://61.48.31.231:1314/rtp/239.3.1.105:8092
+CCTV4,http://626.myds.me:8888/rtp/239.49.8.131:6000
 
 CCTV5,http://58.37.189.47:8088/udp/239.45.1.69:5140
 CCTV5,http://123.116.138.34:4022/rtp/239.3.1.173:8001
