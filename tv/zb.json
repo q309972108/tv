@@ -116,100 +116,120 @@ CCTV17,http://8.146.199.204:33/21/migu.php?id=cctv17
 
 
 卫视频道,#genre#
+厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 厦门卫视,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
 
 海峡卫视,rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubtTdIJCMYA5YzDa0YF1fIC2cN8doK0zGTVUThL7iS22tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 海峡卫视,http://27.148.240.138/PLTV/88888888/224/3221226748/1.m3u8
 
+东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,rtsp://27.148.219.129:554/live/ch16042815324509410461.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16042815324509410461&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uVjKIGPXSLrTux8z3WpvG0ppRRvXyWYHYAXshGmKlw6TtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 东南卫视,http://183.135.226.196:4022/rtp/233.50.201.146:5140
 
+东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,rtsp://27.148.219.129:554/live/ch15102717162086242155.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162086242155&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnoE48cDP3VQ84hqDmstY5CtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 东方卫视,http://27.148.240.138/PLTV/88888888/224/3221227281/1.m3u8
 东方卫视,http://222.65.134.204:10000/udp/239.45.3.146:5140
 东方卫视,http://626.myds.me:8888/rtp/239.49.8.140:6000
 东方卫视,http://183.135.226.196:4022/rtp/233.50.201.125:5140
 
+浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,rtsp://27.148.219.129:554/live/ch15102717162191956583.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162191956583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrksirwnBar1B9u3S5%2BTNWw4tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 浙江卫视,http://27.148.240.138/PLTV/88888888/224/3221227226/1.m3u8
 浙江卫视,http://626.myds.me:8888/rtp/239.49.8.139:6000
 浙江卫视,http://183.135.226.196:4022/rtp/233.50.201.100:5140
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 
+江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,rtsp://27.148.219.129:554/live/ch15102717162168388215.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162168388215&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmNIYM2Zss6bDqSwRNobsJhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 江苏卫视,http://27.148.240.138/PLTV/88888888/224/3221227312/1.m3u8
 江苏卫视,http://626.myds.me:8888/rtp/239.49.8.138:6000
 江苏卫视,http://183.135.226.196:4022/rtp/233.50.201.106:5140
 江苏卫视,http://626.myds.me:8888/rtp/239.49.1.16:6000
 
+湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 湖南卫视,rtsp://27.148.219.129:554/live/ch15102717162145789452.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162145789452&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlo5IKcht21qLksibFAyWsKtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 湖南卫视,http://27.148.240.138/PLTV/88888888/224/3221227238/1.m3u8
 湖南卫视,http://626.myds.me:8888/rtp/239.49.8.142:6000
 湖南卫视,http://183.135.226.196:4022/rtp/233.50.201.103:5140
 湖南卫视,http://120.7.86.41:808/hls/18/index.m3u8
 
+湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,rtsp://27.148.219.129:554/live/ch15111011082361717939.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15111011082361717939&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZJkn4peSC6wyRToTctCaeoziALnewbiLKmADJ%2Bhpw6YtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 湖北卫视,http://626.myds.me:8888/rtp/239.49.8.147:6000
 湖北卫视,http://183.135.226.196:4022/rtp/233.50.201.114:5140
 
+安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,rtsp://27.148.219.129:554/live/ch18100816341109258484.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18100816341109258484&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uU1eF6RvYf0mbTK7y7EHzoPBjHUHfaYYjPYL56%2FO5WMTtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 安徽卫视,http://27.148.240.138/PLTV/88888888/224/3221227301/1.m3u8
 安徽卫视,http://626.myds.me:8888/rtp/239.49.8.204:6000
 安徽卫视,http://183.135.226.196:4022/rtp/233.50.201.113:5140
 
+北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,rtsp://27.148.219.129:554/live/ch15102717162108426467.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162108426467&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkFKcahlHxGvQw%2Bn1Pd%2FELktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 北京卫视,http://27.148.240.138/PLTV/88888888/224/3221227234/1.m3u8
 北京卫视,http://626.myds.me:8888/rtp/239.49.8.141:6000
 北京卫视,http://183.135.226.196:4022/rtp/233.50.201.107:5140
 
+天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,rtsp://27.148.219.129:554/live/ch18010423254205139387.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423254205139387&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriXffCP1YLxZywS5finID4X5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 天津卫视,http://27.148.240.138/PLTV/88888888/224/3221227222/1.m3u8
 天津卫视,http://626.myds.me:8888/rtp/239.49.8.148:6000
 天津卫视,http://183.135.226.196:4022/rtp/233.50.201.104:5140
 
+广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,rtsp://27.148.219.129:554/live/ch15102717162184416594.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162184416594&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkGU1bqbl%2FYuy2e0PG2wNtWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 广东卫视,http://27.148.240.138/PLTV/88888888/224/3221227218/1.m3u8
 广东卫视,http://626.myds.me:8888/rtp/239.49.8.143:6000
 广东卫视,http://183.135.226.196:4022/rtp/233.50.201.102:5140
 
+广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 广西卫视,rtsp://27.148.219.129:554/live/ch15102717162178038031.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162178038031&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnzsBuHRdt7wnKFD0pPIWSftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 广西卫视,http://27.148.240.138/PLTV/88888888/224/3221227328/1.m3u8
 广西卫视,http://626.myds.me:8888/rtp/239.49.8.209:6000
 广西卫视,http://183.135.226.196:4022/rtp/233.50.201.49:5140
 
+江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 江西卫视,rtsp://27.148.219.129:554/live/ch18010423261264213862.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423261264213862&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriUIWq3Hq%2FxniEnPCXEixybhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 江西卫视,http://27.148.240.138/PLTV/88888888/224/3221227304/1.m3u8
 江西卫视,http://626.myds.me:8888/rtp/239.49.8.185:6000
 江西卫视,http://183.135.226.196:4022/rtp/233.50.201.145:5140
 
+深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视,http://27.148.240.138/PLTV/88888888/224/3221227285/1.m3u8
 深圳卫视,http://626.myds.me:8888/rtp/239.49.8.145:6000
 深圳卫视,http://183.135.226.196:4022/rtp/233.50.201.101:5140
 
+辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 辽宁卫视,rtsp://27.148.219.129:554/live/ch18010423255574195595.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423255574195595&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriXgD1uF4Qnrn7rUlS3MhdE0tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 辽宁卫视,http://27.148.240.138/PLTV/88888888/224/3221227242/1.m3u8
 辽宁卫视,http://183.135.226.196:4022/rtp/233.50.201.141:5140
 
+重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,rtsp://27.148.219.129:554/live/ch18111315305080098570.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18111315305080098570&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufWZ3EBMxzTZiJKrPuww3bJ2CT4aMMV7ICYT2bZaHiSatcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 重庆卫视,http://27.148.240.138/PLTV/88888888/224/3221227293/1.m3u8
 重庆卫视,http://626.myds.me:8888/rtp/239.49.8.149:6000
 
+贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,rtsp://27.148.219.129:554/live/ch17041215341272355599.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17041215341272355599&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucF7p3Mh2bbrj5hDT7vBbGIpAjnKW492C9O3BZnUgHKRtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 贵州卫视,http://27.148.240.138/PLTV/88888888/224/3221227277/1.m3u8
 贵州卫视,http://183.135.226.196:4022/rtp/233.50.201.142:5140
 
+山东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,rtsp://27.148.219.129:554/live/ch15111011110075906735.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15111011110075906735&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uSn%2BAs55lVZTrBnprv%2BykPK3ti0KC0fE6axIrc7OQGx3tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 山东卫视,http://27.148.240.138/PLTV/88888888/224/3221227300/1.m3u8
 山东卫视,http://626.myds.me:8888/rtp/239.49.8.146:6000
 山东卫视,http://183.135.226.196:4022/rtp/233.50.201.105:5140
 
+山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 山西卫视,rtsp://27.148.219.129:554/live/ch18051116203766478580.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116203766478580&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WGHYsv%2F9WxEmm88g%2FBum4iWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 山西卫视,http://27.148.240.138/PLTV/88888888/224/3221227323/1.m3u8
 山西卫视,http://183.135.226.196:4022/rtp/233.50.201.51:5140
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 山西卫视,http://626.myds.me:8888/rtp/239.49.1.51:6000
 
+海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,rtsp://27.148.219.129:554/live/ch15102717162116408744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162116408744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkAhTEp3jZtlML3HURzqTHztcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 海南卫视,http://27.148.240.138/PLTV/88888888/224/3221227320/1.m3u8
 海南卫视,http://183.135.226.196:4022/rtp/233.50.201.55:5140
@@ -218,73 +238,88 @@ CCTV17,http://8.146.199.204:33/21/migu.php?id=cctv17
 吉林卫视,http://27.148.240.138/PLTV/88888888/224/3221227273/1.m3u8
 吉林卫视,http://183.135.226.196:4022/rtp/233.50.201.48:5140
 
+四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,rtsp://27.148.219.129:554/live/ch18111315332814229891.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18111315332814229891&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufWZ3EBMxzTZiJKrPuww3bIuRLc0Ijl9Db2%2BCzbFOhxptcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 四川卫视,http://27.148.240.138/PLTV/88888888/224/3221227289/1.m3u8
 四川卫视,http://183.135.226.196:4022/rtp/233.50.201.139:5140
 
+河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,rtsp://27.148.219.129:554/live/ch15102717162143318342.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162143318342&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnSJc6hJod%2BSuIOCykX8ZH7tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 河南卫视,http://27.148.240.138/PLTV/88888888/224/3221227308/1.m3u8
 河南卫视,http://183.135.226.196:4022/rtp/233.50.201.144:5140
 
+河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,rtsp://27.148.219.129:554/live/ch15102717162108825623.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162108825623&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnl52k%2B0%2B2f7kafhenERSbFtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 河北卫视,http://27.148.240.138/PLTV/88888888/224/3221227316/1.m3u8
 河北卫视,http://626.myds.me:8888/rtp/239.49.8.188:6000
 河北卫视,http://183.135.226.196:4022/rtp/233.50.201.140:5140
 
+陕西卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
 陕西卫视,rtsp://27.148.219.129:554/live/ch15102717162169622851.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162169622851&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrm4niuoC3D0mu%2FnQXwXjvnUtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 陕西卫视,http://27.148.240.138/PLTV/88888888/224/3221227324/1.m3u8
 陕西卫视,http://183.135.226.196:4022/rtp/233.50.201.59:5140
 
+黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,rtsp://27.148.219.129:554/live/ch15102717162113164781.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162113164781&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrm14jVTrqgBjl03Q87RR1JDtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 黑龙江卫视,http://27.148.240.138/PLTV/88888888/224/3221227319/1.m3u8
 黑龙江卫视,http://626.myds.me:8888/rtp/239.49.8.144:6000
 黑龙江卫视,http://183.135.226.196:4022/rtp/233.50.201.115:5140
 
+内蒙古卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
 内蒙古卫视,rtsp://27.148.219.129:554/live/ch18051116231710747191.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116231710747191&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHWF3lihd6Coe8K%2BWYlaKx6tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 内蒙古卫视,http://27.148.240.138/PLTV/88888888/224/3221227309/1.m3u8
 内蒙古卫视,http://183.135.226.196:4022/rtp/233.50.201.148:5140
 
+青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 青海卫视,rtsp://27.148.219.129:554/live/ch15102717162187662339.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162187662339&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlWw%2FGaTOI%2Bhr3ARcY4BGUctcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://626.myds.me:8888/rtp/239.49.1.53:6000
 青海卫视,http://183.135.226.196:4022/rtp/233.50.201.65:5140
 
+云南卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
 云南卫视,rtsp://27.148.219.129:554/live/ch15102717162125393898.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162125393898&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrk2EGR42Q3pRUep%2FWHWmwB%2FtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 云南卫视,http://183.135.226.196:4022/rtp/233.50.201.46:5140
 
+宁夏卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
 宁夏卫视,rtsp://27.148.219.129:554/live/ch15102717162173773216.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162173773216&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmCK%2BVOEQ6wntynUQMO%2B%2Bl6tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 宁夏卫视,http://27.148.240.138/PLTV/88888888/224/3221227305/1.m3u8
 宁夏卫视,http://183.135.226.196:4022/rtp/233.50.201.57:5140
 
+甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,rtsp://27.148.219.129:554/live/ch18051116230173626842.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116230173626842&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WEFXv9foar%2FgsilZ%2BSoMONqtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 甘肃卫视,http://27.148.240.138/PLTV/88888888/224/3221227246/1.m3u8
 甘肃卫视,http://183.135.226.196:4022/rtp/233.50.201.149:5140
 甘肃卫视,http://61.48.31.231:1314/rtp/239.3.1.49:8188
 
+新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 新疆卫视,rtsp://27.148.219.129:554/live/ch18051116232899271583.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116232899271583&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHK1A6S4YLl%2B7fwO4FPMSawtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 新疆卫视,http://27.148.240.138/PLTV/88888888/224/3221227332/1.m3u8
 新疆卫视,http://626.myds.me:8888/rtp/239.49.1.239:6000
 
+西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 西藏卫视,rtsp://27.148.219.129:554/live/ch18051116234822851422.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116234822851422&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WE5xxsx1EIl%2FLE%2FjBC7Ww1utcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 西藏卫视,http://183.135.226.196:4022/rtp/233.50.201.70:5140
 
+兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,rtsp://27.148.219.129:554/live/ch18051116233733109443.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18051116233733109443&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubvd%2BmkLQ%2FomRwUbsAEP8WHSiWmCfc%2FoLZl%2BOldAAC74tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 兵团卫视,http://183.135.226.196:4022/rtp/233.50.201.72:5140
 
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,rtsp://27.148.219.129:554/live/ch19091709173330412950.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19091709173330412950&ctype=2&TSTVTimeLife=604800&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uRBbvT7yDUDsLlcfEsy8IYra7Y9e5RZYRnCO7i6RYRYYtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
+延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8
 
+大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 大湾区卫视,rtsp://27.148.219.129:554/live/ch19011109345458761991.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19011109345458761991&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufavIPQgCSxklZguDbOHHTinAzEZnI%2BO0%2BGCmTfbtYmKtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
 福建频道,#genre#
+厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 厦门卫视,rtsp://27.148.219.129:554/live/ch15102712173616484873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712173616484873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQoE7EG%2F%2Bys66FA%2FjZJwHJmaFNaHiO5CgDpob9wb1bQItcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 厦门卫视,http://27.148.240.138/PLTV/88888888/224/3221226744/1.m3u8
-厦门一套,https://xiamenalic.v.myalicdn.com/xiamen/xiamen1_1/index.m3u8
-厦门二套,https://xiamenalic.v.myalicdn.com/xiamen/xiamen2_1/index.m3u8
 东南卫视,rtsp://27.148.219.129:554/live/ch16042815324509410461.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16042815324509410461&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uVjKIGPXSLrTux8z3WpvG0ppRRvXyWYHYAXshGmKlw6TtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 东南卫视,http://183.135.226.196:4022/rtp/233.50.201.146:5140
 海峡卫视,rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubtTdIJCMYA5YzDa0YF1fIC2cN8doK0zGTVUThL7iS22tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
