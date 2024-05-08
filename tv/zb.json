@@ -1,4 +1,5 @@
 央视频道,#genre#
+CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://27.148.240.138/PLTV/88888888/224/3221226773/1.m3u8
 CCTV1,http://61.48.31.231:1314/rtp/239.3.1.129:8008
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -8,6 +9,7 @@ CCTV1,http://8.146.199.204:33/21/migu.php?id=cctv1
 CCTV1,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
 CCTV1,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 
+CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,rtsp://27.148.219.129:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208064869858322&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJPPOs560ILJc4KpVFFgelPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV2,http://27.148.240.138/PLTV/88888888/224/3221226788/1.m3u8
 CCTV2,http://61.48.31.231:1314/rtp/239.3.1.60:8084
@@ -18,17 +20,21 @@ CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.
 CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2,http://8.146.199.204:33/21/migu.php?id=cctv2 
 
+CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://8.146.199.204:33/21/migu.php?id=cctv3
 CCTV3,http://58.37.189.47:8088/udp/239.45.1.68:5140
 
+CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,rtsp://27.148.219.129:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ua7JKAOanUQE3SUt988pGyyEzRyUwU0evCPJtTeGO8KhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV4,rtsp://27.148.219.129:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ua7JKAOanUQE3SUt988pGyyEzRyUwU0evCPJtTeGO8KhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV4,http://626.myds.me:8888/rtp/239.49.8.131:6000
 CCTV4,http://8.146.199.204:33/21/migu.php?id=cctv4 
 
+CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://8.146.199.204:33/21/migu.php?id=cctv5
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
+CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 CCTV5+,rtsp://27.148.219.129:554/live/ch17092110522954055086.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110522954055086&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3LhGOtm6HMBkO7D9Dxc9Kd8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV5+,http://27.148.240.138/PLTV/88888888/224/3221226850/1.m3u8
 CCTV5+,http://8.146.199.204:33/21/migu.php?id=cctv5p
@@ -36,17 +42,21 @@ CCTV5+,http://61.48.31.231:1314/rtp/239.3.1.130:8004
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+,http://183.135.226.196:4022/rtp/233.50.201.220:5140
 
-CCTV6,http://8.146.199.204:33/21/migu.php?id=cctv6 
+CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV6,http://8.146.199.204:33/21/migu.php?id=cctv6
 
+CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,rtsp://27.148.219.129:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208080814677315&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJfeqIynThSnMQUlmZG4XzktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV7,http://27.148.240.138/PLTV/88888888/224/3221226780/1.m3u8
 CCTV7,http://183.135.226.196:4022/rtp/233.50.201.120:5140
 CCTV7,http://8.146.199.204:33/21/migu.php?id=cctv7
 
+CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,http://8.146.199.204:33/21/migu.php?id=cctv8 
 CCTV8,http://61.48.31.231:1314/rtp/239.3.1.175:8001
 CCTV8,http://183.135.226.196:4022/rtp/233.50.201.199:5140
 
+CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,rtsp://27.148.219.129:554/live/ch17092110534875474266.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092110534875474266&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucAZXezSI56bZH%2B0ekJWO3Kqp8Lff1Wxsu5nFcCGQLsPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV9,http://27.148.240.138/PLTV/88888888/224/3221226849/1.m3u8
 CCTV9,http://58.37.189.47:8088/udp/239.45.3.4:5140
@@ -54,41 +64,49 @@ CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV9,http://183.135.226.196:4022/rtp/233.50.201.121:5140
 CCTV9,http://8.146.199.204:33/21/migu.php?id=cctv9
 
+CCTV10,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
 CCTV10,rtsp://27.148.219.129:554/live/ch17092208093413465804.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208093413465804&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwK40i0QqJ17krMIpXhU61QbtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV10,http://27.148.240.138/PLTV/88888888/224/3221226779/1.m3u8
 CCTV10,http://183.135.226.196:4022/rtp/233.50.201.122:5140
 CCTV10,http://8.146.199.204:33/21/migu.php?id=cctv10
 
+CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,rtsp://27.148.219.129:554/live/ch15102717162059665205.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162059665205&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkXO1CnGiUxdVsBVTaMwuPutcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV11,http://27.148.240.138/PLTV/88888888/224/3221226888/1.m3u8
 CCTV11,http://183.135.226.196:4022/rtp/233.50.201.11:5140
 CCTV11,http://8.146.199.204:33/21/migu.php?id=cctv11
 
+CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,rtsp://27.148.219.129:554/live/ch17092208110147271148.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208110147271148&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOwv5iRHMQ%2Bj40nXbfAhXLb5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV12,http://27.148.240.138/PLTV/88888888/224/3221226792/1.m3u8
 CCTV12,http://183.135.226.196:4022/rtp/233.50.201.123:5140
 CCTV12,http://8.146.199.204:33/21/migu.php?id=cctv12 
 
+CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,rtsp://27.148.219.129:554/live/ch15102717162008550635.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162008550635&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlCf4M6F2bL2ubFe6Qfj5LgtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV13,http://27.148.240.138/PLTV/88888888/224/3221226769/1.m3u8
 CCTV13,http://183.135.226.196:4022/rtp/233.50.201.246:5140
 CCTV13,http://8.146.199.204:33/21/migu.php?id=cctv13
 CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 
+CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,rtsp://27.148.219.129:554/live/ch17092208120898287250.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOyv5DUtRd8oc%2BQ%2Bby%2FK7so4tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV14,,http://27.148.240.138/PLTV/88888888/224/3221226762/1.m3u8
 CCTV14,http://183.135.226.196:4022/rtp/233.50.201.124:5140
 CCTV14,http://8.146.199.204:33/21/migu.php?id=cctv14
 
+CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV15,rtsp://27.148.219.129:554/live/ch15102717162037072744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162037072744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvY2g8SzF4nir%2FMoPrl55otcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV15,http://27.148.240.138/PLTV/88888888/224/3221226775/1.m3u8
 CCTV15,http://183.135.226.196:4022/rtp/233.50.201.15:5140
 CCTV15,http://8.146.199.204:33/21/migu.php?id=cctv15
 
+CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV16,http://27.148.240.138/PLTV/88888888/224/3221227352/1.m3u8
 CCTV16,http://61.48.31.231:1314/rtp/239.3.1.184:8001
 CCTV16,http://183.135.226.196:4022/rtp/233.50.201.192:5140
 
+CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,rtsp://27.148.219.129:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19073116244855666953&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uYlmqEeSiY7ilafGBzytHgeQXMXS1D9Bq7YYS3stvjq5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 CCTV17,http://27.148.240.138/PLTV/88888888/224/3221227055/1.m3u8
 CCTV17,http://61.48.31.231:1314/rtp/239.3.1.151:8144
@@ -297,11 +315,7 @@ CCTV17,http://8.146.199.204:33/21/migu.php?id=cctv17
 
 港台频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港凤凰,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+
 
 民视,P2p://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
 民视,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=26
