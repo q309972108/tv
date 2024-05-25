@@ -393,27 +393,25 @@ CCTV17,http://8.146.199.204:33/21/migu.php?id=cctv17
 公视,P2p://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
 公视,mitv://135.148.104.228:19806/5bc9388122b840f1abd2ff73c85049a6
 
-凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文频道,http://218.89.233.208:8088/rtp/239.93.0.162:2192
-凤凰中文频道,http://218.89.233.208:8088/rtp/239.93.1.9:2192
-凤凰中文频道,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
-凤凰中文频道,http://112.19.171.156:9999/udp/239.93.0.162:2192
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://218.89.233.208:8088/rtp/239.93.0.162:2192
+凤凰中文,http://218.89.233.208:8088/rtp/239.93.1.9:2192
+凤凰中文,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
+凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 
-凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
-凤凰资讯频道,http://218.89.233.208:8088/rtp/239.93.0.118:2191
-凤凰资讯频道,http://218.89.233.208:8088/rtp/239.93.1.4:2191
-凤凰资讯频道,http://218.89.233.208:8088/udp/239.93.0.118:2191
-凤凰资讯频道,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯频道,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰资讯频道,http://103.95.24.37:880/fhzx.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
+凤凰资讯,http://218.89.233.208:8088/rtp/239.93.0.118:2191
+凤凰资讯,http://218.89.233.208:8088/rtp/239.93.1.4:2191
+凤凰资讯,http://218.89.233.208:8088/udp/239.93.0.118:2191
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 
-香港凤凰频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-香港凤凰频道,http://gzcyl001.3322.org:8081/hls/33/index.m3u8
-香港凤凰频道,http://103.95.24.37:880/fhxgt.m3u8
+香港凤凰,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+香港凤凰,http://103.95.24.37:880/fhxgt.m3u8
 
-翡翠台,http://gzcyl001.3322.org:8081/hls/30/index.m3u8
-翡翠美洲台,http://gzcyl001.3322.org:8081/hls/31/index.m3u8
+
 
 广东频道,#genre#
 广东卫视,rtsp://27.148.219.129:554/live/ch15102717162184416594.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162184416594&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkGU1bqbl%2FYuy2e0PG2wNtWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
