@@ -94,12 +94,12 @@ CCTV15,http://120.77.28.4:8648/mgu.php?id=cctv15
 CCTV15,http://111.196.131.18:8686/rtp/239.3.1.153:8136
 
 CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
-CCTV16,http://120.77.28.4:8648/mgu.php?id=cctv16
+CCTV16,http://111.196.131.18:8686/rtp/239.3.1.184:8001
 
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://101.200.122.188/tv/migu085.php?id=cctv17
 CCTV17,http://120.77.28.4:8648/mgu.php?id=cctv17 
-
+CCTV17,http://111.196.131.18:8686/rtp/239.3.1.151:8144
 
 卫视频道,#genre#
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
@@ -120,9 +120,9 @@ CCTV17,http://120.77.28.4:8648/mgu.php?id=cctv17
 东方卫视,http://111.196.131.18:8686/rtp/239.3.1.136:8032
 
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-浙江卫视,http://58.41.27.144:18888/udp/239.45.3.178:5140
 浙江卫视,http://115.150.63.77:9902/tsfile/live/1065_1.m3u8
 浙江卫视,http://111.196.131.18:8686/rtp/239.3.1.137:8036
+浙江卫视,http://58.41.27.144:18888/udp/239.45.3.178:5140
 
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://58.41.27.144:18888/udp/239.45.3.177:5140
@@ -383,9 +383,9 @@ CCTV17,http://120.77.28.4:8648/mgu.php?id=cctv17
 
 浙江频道,#genre#
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-浙江卫视,http://58.41.27.144:18888/udp/239.45.3.178:5140
 浙江卫视,http://115.150.63.77:9902/tsfile/live/1065_1.m3u8
 浙江卫视,http://111.196.131.18:8686/rtp/239.3.1.137:8036
+浙江卫视,http://58.41.27.144:18888/udp/239.45.3.178:5140
 
 上虞频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 余姚频道,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
