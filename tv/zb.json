@@ -1,91 +1,76 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://120.77.28.4:8648/mgu.php?id=cctv1
-CCTV1,http://rihou.cc:567/cqyx.php?id=cctv1
+CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
+CCTV1,http://rihou.cc:55/lib/aikan.php?id=cctv1
 CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV2,http://120.77.28.4:8648/mgu.php?id=cctv2 
-CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 CCTV2,http://rihou.cc:567/cqyx.php?id=cctv2
+CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 
 CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://120.77.28.4:8648/mgu.php?id=cctv3 
-CCTV3,http://rihou.cc:567/cqyx.php?id=cctv3
+CCTV3,http://rihou.cc:55/lib/aikan.php?id=cctv3
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV4,http://120.77.28.4:8648/mgu.php?id=cctv4
+CCTV4,http://rihou.cc:55/lib/aikan.php?id=cctv4
 CCTV4,http://dsm.ats.ink:8012/udp/239.3.1.105:8092
-CCTV4,http://rihou.cc:567/cqyx.php?id=cctv4
 
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5,http://120.77.28.4:8648/mgu.php?id=cctv5
-CCTV5,http://rihou.cc:567/cqyx.php?id=cctv5
+CCTV5,http://rihou.cc:55/lib/aikan.php?id=cctv5
 CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
 
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
-CCTV5+,http://120.77.28.4:8648/mgu.php?id=cctv5p
-CCTV5+,http://rihou.cc:567/cqyx.php?id=cctv5p
+CCTV5+,http://rihou.cc:55/lib/aikan.php?id=cctv5p
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
 
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV6,http://120.77.28.4:8648/mgu.php?id=cctv6
-CCTV6,http://rihou.cc:567/cqyx.php?id=cctv6
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CCTV6,http://rihou.cc:55/lib/aikan.php?id=cctv6
 CCTV6,http://dsm.ats.ink:8012/udp/239.3.1.174:8001
 
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV7,http://120.77.28.4:8648/mgu.php?id=cctv7
-CCTV7,http://rihou.cc:567/cqyx.php?id=cctv7
+CCTV7,http://rihou.cc:55/lib/aikan.php?id=cctv7
 CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
 
 CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV8,http://120.77.28.4:8648/mgu.php?id=cctv8
-CCTV8,http://rihou.cc:567/cqyx.php?id=cctv8
+CCTV8,http://rihou.cc:55/lib/aikan.php?id=cctv8
 CCTV8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
 
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV9,http://120.77.28.4:8648/mgu.php?id=cctv9 
-CCTV9,http://rihou.cc:567/cqyx.php?id=cctv9
+CCTV9,http://rihou.cc:55/lib/aikan.php?id=cctv9
 CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
 
 CCTV10,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
-CCTV10,http://120.77.28.4:8648/mgu.php?id=cctv10
-CCTV10,http://rihou.cc:567/cqyx.php?id=cctv10
+CCTV10,http://rihou.cc:55/lib/aikan.php?id=cctv10
 CCTV10,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
 
 CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV11,http://120.77.28.4:8648/mgu.php?id=cctv11
-CCTV11,http://rihou.cc:567/cqyx.php?id=cctv11
+CCTV11,http://rihou.cc:55/lib/aikan.php?id=cctv11
 CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
 
 CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV12,http://120.77.28.4:8648/mgu.php?id=cctv12
-CCTV12,http://rihou.cc:567/cqyx.php?id=cctv12
+CCTV12,http://rihou.cc:55/lib/aikan.php?id=cctv12
 CCTV12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV13,http://120.77.28.4:8648/mgu.php?id=cctv13
-CCTV13,http://rihou.cc:567/cqyx.php?id=cctv13
+CCTV13,http://rihou.cc:55/lib/aikan.php?id=cctv13
 CCTV13,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
 
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV14,http://120.77.28.4:8648/mgu.php?id=cctv14 
-CCTV14,http://rihou.cc:567/cqyx.php?id=cctv14
+CCTV14,http://rihou.cc:55/lib/aikan.php?id=cctv14
 CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
 
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV15,http://120.77.28.4:8648/mgu.php?id=cctv15
-CCTV15,http://rihou.cc:567/cqyx.php?id=cctv15
+CCTV15,http://rihou.cc:55/lib/aikan.php?id=cctv15
 CCTV15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
 
 CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
+CCTV16,http://rihou.cc:55/lib/aikan.php?id=cctv16
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
-CCTV16,http://rihou.cc:567/cqyx.php?id=cctv16
 
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV17,http://120.77.28.4:8648/mgu.php?id=cctv17 
-CCTV17,http://rihou.cc:567/cqyx.php?id=cctv17
+CCTV17,http://rihou.cc:55/lib/aikan.php?id=cctv17
 CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 
 卫视频道,#genre#
@@ -282,22 +267,38 @@ CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 宁化综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
 
 港台频道,#genre#
+民视,http://8.137.59.151:3009/TV2/gat.php?id=41
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
 民视,P2p://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
 
+中视,http://8.137.59.151:3009/TV2/gat.php?id=42
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
 中视,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 
+华视,http://8.137.59.151:3009/TV2/gat.php?id=44
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
 华视,P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
 
+台视,http://8.137.59.151:3009/TV2/gat.php?id=43
 台视,rtmp://f13h.mine.nu/sat/tv071
 台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+
+寰宇新闻台,http://8.137.59.151:3009/TV2/gat.php?id=47
+三立新闻台,http://8.137.59.151:3009/TV2/gat.php?id=49
+中视新闻台,http://8.137.59.151:3009/TV2/gat.php?id=50
+中视新闻台,http://8.137.59.151:3009/TV2/gat.php?id=51
+华视新闻台,http://8.137.59.151:3009/TV2/gat.php?id=109
+好莱坞电影,http://8.137.59.151:3009/TV2/gat.php?id=79
+东森电影台,http://8.137.59.151:3009/TV2/gat.php?id=62
+东森洋片台,http://8.137.59.151:3009/TV2/gat.php?id=63
+龙华偶像台,http://8.137.59.151:3009/TV2/gat.php?id=64
+三立综合台,http://8.137.59.151:3009/TV2/gat.php?id=75
+闽南综艺台,http://8.137.59.151:3009/TV2/gat.php?id=61
 
 星空卫视,http://nas.jumping.wang:5555/udp/239.93.0.156:2193
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
