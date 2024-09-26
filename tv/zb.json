@@ -1,14 +1,17 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
 CCTV1,http://rihou.cc:55/lib/aikan.php?id=cctv1
 CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV2,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 CCTV2,http://rihou.cc:567/cqyx.php?id=cctv2
 CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 
 CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 CCTV3,http://rihou.cc:55/lib/aikan.php?id=cctv3
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
 
@@ -25,11 +28,13 @@ CCTV5+,http://rihou.cc:55/lib/aikan.php?id=cctv5p
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
 
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV6,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://rihou.cc:55/lib/aikan.php?id=cctv6
 CCTV6,http://dsm.ats.ink:8012/udp/239.3.1.174:8001
 
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV7,http://183.207.248.71:80/cntv/live1/cctv-7/cctv-7
 CCTV7,http://rihou.cc:55/lib/aikan.php?id=cctv7
 CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
 
@@ -38,10 +43,12 @@ CCTV8,http://rihou.cc:55/lib/aikan.php?id=cctv8
 CCTV8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
 
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV9,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
 CCTV9,http://rihou.cc:55/lib/aikan.php?id=cctv9
 CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
 
 CCTV10,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
+CCTV10,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
 CCTV10,http://rihou.cc:55/lib/aikan.php?id=cctv10
 CCTV10,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
 
@@ -50,6 +57,7 @@ CCTV11,http://rihou.cc:55/lib/aikan.php?id=cctv11
 CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
 
 CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV12,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
 CCTV12,http://rihou.cc:55/lib/aikan.php?id=cctv12
 CCTV12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
 
@@ -58,6 +66,7 @@ CCTV13,http://rihou.cc:55/lib/aikan.php?id=cctv13
 CCTV13,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
 
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV14,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 CCTV14,http://rihou.cc:55/lib/aikan.php?id=cctv14
 CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
 
@@ -70,6 +79,7 @@ CCTV16,http://rihou.cc:55/lib/aikan.php?id=cctv16
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
 
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV17,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 CCTV17,http://rihou.cc:55/lib/aikan.php?id=cctv17
 CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 
