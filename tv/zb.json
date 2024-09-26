@@ -4,84 +4,142 @@ CCTV1,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cc
 CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
 CCTV1,http://rihou.cc:55/lib/aikan.php?id=cctv1
 CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
+CCTV1,http://www.joaolei.cn:52282/itv/6000000001000029752.m3u8?cdn=wasusyt
+CCTV1,http://www.joaolei.cn:52282/itv/5000000004000002226.m3u8?cdn=bestzb
+CCTV1,http://www.joaolei.cn:52282/itv/1000000005000265001.m3u8?cdn=ystenlive
 
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 CCTV2,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 CCTV2,http://rihou.cc:567/cqyx.php?id=cctv2
+CCTV2,http://www.joaolei.cn:52282/ysptp/cctv2.m3u8
+CCTV2,http://www.joaolei.cn:52282/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV2,http://www.joaolei.cn:52282/itv/6000000001000014161.m3u8?cdn=wasusyt
+CCTV2,http://www.joaolei.cn:52282/itv/1000000001000023315.m3u8?cdn=ystenlive
 
 CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://rihou.cc:55/lib/aikan.php?id=cctv3
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
 CCTV3,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+CCTV3,http://www.joaolei.cn:52282/itv/6000000001000022313.m3u8?cdn=wasusyt
+CCTV3,http://www.joaolei.cn:52282/itv/1000000005000265003.m3u8?cdn=ystenlive
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,http://rihou.cc:55/lib/aikan.php?id=cctv4
 CCTV4,http://dsm.ats.ink:8012/udp/239.3.1.105:8092
+CCTV4,http://www.joaolei.cn:52282/ysptp/cctv4.m3u8
+CCTV4,http://www.joaolei.cn:52282/itv/5000000011000031102.m3u8?cdn=bestzb
+CCTV4,http://www.joaolei.cn:52282/itv/1000000005000265004.m3u8?cdn=ystenlive
 
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://rihou.cc:55/lib/aikan.php?id=cctv5
 CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
+CCTV5,http://www.joaolei.cn:52282/ysptp/cctv5.m3u8
+CCTV5,http://www.joaolei.cn:52282/itv/1000000005000025222.m3u8?cdn=ystenlive
+CCTV5,http://www.joaolei.cn:52282/itv/1000000005000265005.m3u8?cdn=ystenlive
 
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 CCTV5+,http://rihou.cc:55/lib/aikan.php?id=cctv5p
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
+CCTV5+,http://www.joaolei.cn:52282/ysptp/cctv5p.m3u8
+CCTV5+,http://www.joaolei.cn:52282/itv/6000000001000015875.m3u8?cdn=wasusyt
+CCTV5+,http://www.joaolei.cn:52282/itv/1000000005000265016.m3u8?cdn=ystenlive
 
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://rihou.cc:55/lib/aikan.php?id=cctv6
 CCTV6,http://dsm.ats.ink:8012/udp/239.3.1.174:8001
 CCTV6,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+CCTV6,http://www.joaolei.cn:52282/itv/1000000001000001737.m3u8?cdn=ystenlive
+CCTV6,http://www.joaolei.cn:52282/itv/6000000001000004574.m3u8?cdn=wasusyt
+CCTV6,http://www.joaolei.cn:52282/itv/1000000005000265006.m3u8?cdn=ystenlive
 
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
 CCTV7,http://183.207.248.71:80/cntv/live1/cctv-7/cctv-7
 CCTV7,http://rihou.cc:55/lib/aikan.php?id=cctv7
+CCTV7,http://www.joaolei.cn:52282/ysptp/cctv7.m3u8
+CCTV7,http://www.joaolei.cn:52282/itv/1000000001000024341.m3u8?cdn=ystenlive
+CCTV7,http://www.joaolei.cn:52282/itv/6000000001000009055.m3u8?cdn=wasusyt
+CCTV7,http://www.joaolei.cn:52282/itv/1000000005000265007.m3u8?cdn=ystenlive
 
 CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,http://rihou.cc:55/lib/aikan.php?id=cctv8
 CCTV8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
+CCTV8,http://www.joaolei.cn:52282/ysptp/cctv8.m3u8
+CCTV8,http://www.joaolei.cn:52282/itv/6000000001000001070.m3u8?cdn=wasusyt
+CCTV8,http://www.joaolei.cn:52282/itv/1000000005000265008.m3u8?cdn=ystenlive
 
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,http://rihou.cc:55/lib/aikan.php?id=cctv9
 CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
 CCTV9,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+CCTV9,http://www.joaolei.cn:52282/ysptp/cctv9.m3u8
+CCTV9,http://www.joaolei.cn:52282/itv/1000000001000014583.m3u8?cdn=ystenlive
+CCTV9,http://www.joaolei.cn:52282/itv/6000000001000032162.m3u8?cdn=wasusyt
+CCTV9,http://www.joaolei.cn:52282/itv/1000000005000265009.m3u8?cdn=ystenlive
 
 CCTV10,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
 CCTV10,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
 CCTV10,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
 CCTV10,http://rihou.cc:55/lib/aikan.php?id=cctv10
+CCTV10,http://www.joaolei.cn:52282/ysptp/cctv10.m3u8
+CCTV10,http://www.joaolei.cn:52282/itv/1000000001000023734.m3u8?cdn=ystenlive
+CCTV10,http://www.joaolei.cn:52282/itv/5000000004000012827.m3u8?cdn=bestzb
+CCTV10,http://www.joaolei.cn:52282/itv/1000000005000265010.m3u8?cdn=ystenlive
 
 CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://rihou.cc:55/lib/aikan.php?id=cctv11
 CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
+CCTV11,http://www.joaolei.cn:52282/ysptp/cctv11.m3u8
+CCTV11,http://www.joaolei.cn:52282/itv/5000000011000031106.m3u8?cdn=bestzb
+CCTV11,http://www.joaolei.cn:52282/itv/1000000005000265011.m3u8?cdn=ystenlive
 
 CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,http://rihou.cc:55/lib/aikan.php?id=cctv12
 CCTV12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
 CCTV12,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
+CCTV12,http://www.joaolei.cn:52282/ysptp/cctv12.m3u8
+CCTV12,http://www.joaolei.cn:52282/itv/1000000001000032494.m3u8?cdn=ystenlive
+CCTV12,http://www.joaolei.cn:52282/itv/6000000001000022586.m3u8?cdn=wasusyt
+CCTV12,http://www.joaolei.cn:52282/itv/1000000005000265012.m3u8?cdn=ystenlive
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://rihou.cc:55/lib/aikan.php?id=cctv13
 CCTV13,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
+CCTV13,http://www.joaolei.cn:52282/ysptp/cctv13.m3u8
+CCTV13,http://www.joaolei.cn:52282/itv/5000000011000031108.m3u8?cdn=bestzb
 
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://rihou.cc:55/lib/aikan.php?id=cctv14
 CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
 CCTV14,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+CCTV14,http://www.joaolei.cn:52282/ysptp/cctv14.m3u8
+CCTV14,http://www.joaolei.cn:52282/itv/1000000001000008170.m3u8?cdn=ystenlive
+CCTV14,http://www.joaolei.cn:52282/itv/5000000004000006673.m3u8?cdn=bestzb
+CCTV14,http://www.joaolei.cn:52282/itv/1000000005000265013.m3u8?cdn=ystenlive
 
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV15,http://rihou.cc:55/lib/aikan.php?id=cctv15
 CCTV15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
+CCTV15,http://www.joaolei.cn:52282/ysptp/cctv15.m3u8
+CCTV15,http://www.joaolei.cn:52282/itv/5000000011000031109.m3u8?cdn=bestzb
+CCTV15,http://www.joaolei.cn:52282/itv/1000000005000265014.m3u8?cdn=ystenlive
 
 CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
 CCTV16,http://rihou.cc:55/lib/aikan.php?id=cctv16
+CCTV16,http://www.joaolei.cn:52282/ysptp/cctv16.m3u8
+CCTV16,http://www.joaolei.cn:52282/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV16,http://www.joaolei.cn:52282/itv/5000000008000023254.m3u8?cdn=bestzb
 
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://rihou.cc:55/lib/aikan.php?id=cctv17
 CCTV17,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
+CCTV17,http://www.joaolei.cn:52282/ysptp/cctv17.m3u8
+CCTV17,http://www.joaolei.cn:52282/itv/1000000006000268004.m3u8?cdn=ystenlive
+CCTV17,http://www.joaolei.cn:52282/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 卫视频道,#genre#
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
@@ -599,20 +657,14 @@ CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8?zanhd
-霍山综合,http://ahhsdb.chinashadt.com:1936/live/stream:ahws.stream/playlist.m3u8?zanhd
-农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
-经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
 经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
-综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
 歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
 宿州新闻,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-肥西新闻,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5.flv
-肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+
 
 
 河南频道,#genre#
@@ -1851,9 +1903,13 @@ CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 
 少儿动漫,#genre#
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV14,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 CCTV14,http://rihou.cc:55/lib/aikan.php?id=cctv14
 CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
+CCTV14,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+CCTV14,http://www.joaolei.cn:52282/ysptp/cctv14.m3u8
+CCTV14,http://www.joaolei.cn:52282/itv/1000000001000008170.m3u8?cdn=ystenlive
+CCTV14,http://www.joaolei.cn:52282/itv/5000000004000006673.m3u8?cdn=bestzb
+CCTV14,http://www.joaolei.cn:52282/itv/1000000005000265013.m3u8?cdn=ystenlive
 
 金鹰卡通,http://wouu.net:9977/udp/239.93.0.108:5140
 金鹰卡通,http://1.83.124.62:8888/rtp/239.112.205.136:5140
