@@ -2,12 +2,9 @@
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
 CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
-CCTV1,http://zy.otioi.cn/live/mgjt.php?token=emn4DRdT&id=cctv1
 
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
-CCTV2,http://rihou.cc:567/cqyx.php?id=cctv2
-CCTV2,http://www.joaolei.cn:52282/ysptp/cctv2.m3u8
 
 CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
@@ -69,147 +66,104 @@ CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://dsm.ats.ink:8012/udp/239.3.1.156:8148
-东南卫视,http://rihou.cc:567/cqyx.php?id=dnws
 
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://dsm.ats.ink:8012/udp/239.3.1.136:8032
-东方卫视,http://120.77.28.4:8648/mgu.php?id=dfws
-东方卫视,http://rihou.cc:567/cqyx.php?id=dfws
 
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.137:8036
-浙江卫视,http://120.77.28.4:8648/mgu.php?id=zjws
-浙江卫视,http://rihou.cc:567/cqyx.php?id=zjws
 
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://dsm.ats.ink:8012/udp/239.3.1.135:8028
-江苏卫视,http://120.77.28.4:8648/mgu.php?id=jsws
-江苏卫视,http://rihou.cc:567/cqyx.php?id=jsws
 
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 湖南卫视,http://dsm.ats.ink:8012/udp/239.3.1.132:8012
-湖南卫视,http://rihou.cc:567/cqyx.php?id=hunws
 
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://dsm.ats.ink:8012/udp/239.3.1.138:8044
-湖北卫视,http://120.77.28.4:8648/mgu.php?id=hubws
-湖北卫视,http://rihou.cc:567/cqyx.php?id=hubws
 
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://dsm.ats.ink:8012/udp/239.3.1.211:8064
-安徽卫视,http://rihou.cc:567/cqyx.php?id=ahws
 
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://47.102.200.34:18081/live/program/live/bjwshd8m/8000000/mnf.m3u8
 北京卫视,http://dsm.ats.ink:8012/udp/239.3.1.241:8000
-北京卫视,http://120.77.28.4:8648/mgu.php?id=bjws
-北京卫视,http://zy.otioi.cn/live/mgjt.php?token=emn4DRdT&id=bjws
 
 天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://dsm.ats.ink:8012/udp/239.3.1.141:1234
-天津卫视,http://rihou.cc:567/cqyx.php?id=tjws
 
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://dsm.ats.ink:8012/udp/239.3.1.142:8048
-广东卫视,http://120.77.28.4:8648/mgu.php?id=gdws
-广东卫视,http://rihou.cc:567/cqyx.php?id=gdws
 
 广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 广西卫视,http://dsm.ats.ink:8012/udp/239.3.1.39:8300
-广西卫视,http://rihou.cc:567/cqyx.php?id=gxws
 
 江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 江西卫视,http://dsm.ats.ink:8012/udp/239.3.1.123:8164
-江西卫视,http://120.77.28.4:8648/mgu.php?id=jxws
-江西卫视,http://rihou.cc:567/cqyx.php?id=jxws
 
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视,http://dsm.ats.ink:8012/udp/239.3.1.134:8020
-深圳卫视,http://rihou.cc:567/cqyx.php?id=szws
 
 辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 辽宁卫视,http://dsm.ats.ink:8012/udp/239.3.1.210:8056
-辽宁卫视,http://rihou.cc:567/cqyx.php?id=lnws
 
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://dsm.ats.ink:8012/udp/239.3.1.122:8160
-重庆卫视,http://rihou.cc:567/cqyx.php?id=cqws
 
 贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,http://fangke.blueswords.com:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://dsm.ats.ink:8012/udp/239.3.1.149:8076
-贵州卫视,http://rihou.cc:567/cqyx.php?id=gzws
 
 山东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://dsm.ats.ink:8012/udp/239.3.1.209:8052
 
 山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 山西卫视,http://dsm.ats.ink:8012/udp/239.3.1.42:8172
-山西卫视,http://rihou.cc:567/cqyx.php?id=sxiws
 
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-海南卫视,http://120.77.28.4:8648/mgu.php?id=hinws
-海南卫视,http://rihou.cc:567/cqyx.php?id=hinws
 
 吉林卫视,http://dsm.ats.ink:8012/udp/239.3.1.240:8172
-吉林卫视,http://120.77.28.4:8648/mgu.php?id=jlws
-吉林卫视,http://rihou.cc:567/cqyx.php?id=jlws
 
 四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-四川卫视,http://rihou.cc:567/cqyx.php?id=scws
 
 河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://dsm.ats.ink:8012/udp/239.3.1.27:8128
-河南卫视,http://120.77.28.4:8648/mgu.php?id=hnws
-河南卫视,http://rihou.cc:567/cqyx.php?id=hnws
 
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://dsm.ats.ink:8012/udp/239.3.1.148:8072
-河北卫视,http://rihou.cc:567/cqyx.php?id=hbws
 
 陕西卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
 陕西卫视,http://dsm.ats.ink:8012/udp/239.3.1.41:8140
-陕西卫视,http://120.77.28.4:8648/mgu.php?id=sxws
 
 黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.133:8016
-黑龙江卫视,http://rihou.cc:567/cqyx.php?id=hljws
 
 内蒙古卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
 内蒙古卫视,http://dsm.ats.ink:8012/udp/239.3.1.43:8176
-内蒙古卫视,http://rihou.cc:567/cqyx.php?id=nmws
 
 青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 青海卫视,http://dsm.ats.ink:8012/udp/239.3.1.44:8184
-青海卫视,http://120.77.28.4:8648/mgu.php?id=qhws
-青海卫视,http://rihou.cc:567/cqyx.php?id=qhws
 
 云南卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
 云南卫视,http://dsm.ats.ink:8012/udp/239.3.1.26:8108
-云南卫视,http://rihou.cc:567/cqyx.php?id=ynws
 
 宁夏卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
 宁夏卫视,http://dsm.ats.ink:8012/udp/239.3.1.46:8124
-宁夏卫视,http://rihou.cc:567/cqyx.php?id=nxws
 
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://dsm.ats.ink:8012/udp/239.3.1.49:8188
 
 新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 新疆卫视,http://dsm.ats.ink:8012/udp/239.3.1.48:8160
-新疆卫视,http://rihou.cc:567/cqyx.php?id=xjws
 
 西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 西藏卫视,http://dsm.ats.ink:8012/udp/239.3.1.47:8164
-西藏卫视,http://rihou.cc:567/cqyx.php?id=xzws
 
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://dsm.ats.ink:8012/udp/239.3.1.144:4120
-兵团卫视,http://rihou.cc:567/cqyx.php?id=btws
 
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,http://dsm.ats.ink:8012/udp/239.3.1.155:4120
-三沙卫视,http://rihou.cc:567/cqyx.php?id=ssws
 
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
