@@ -5,8 +5,8 @@ CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 CCTV1,http://hms3632nc1972679595.live.aikan.miguvideo.com/wh7f454c46tw2873954073_-1294186318/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.144&timestamp=20241002015057&ContentId=265183188&timezone=UTC&mtv_session=d038aaad9cb01aaeda749a272125f17c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=899d3328f72ab1ac40c996ed745ea163
 
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 CCTV2,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw4069284645_1532084664/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.158&timestamp=20241002005917&ContentId=265667329&timezone=UTC&mtv_session=3d97f344120915bf5dad3706fe018e8e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cd0a2b7b645a1dbd7fbf68b2e72c17c2
+CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 
 CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
@@ -17,8 +17,8 @@ CCTV4,http://dsm.ats.ink:8012/udp/239.3.1.105:8092
 CCTV4,http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw2356943932_1073170656/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.148&timestamp=20241002025355&ContentId=265667639&timezone=UTC&mtv_session=6b311f7504611d05dfe1ecbe0f24717e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=029659f536fd93e0581ba69070e0a6cb
 
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
 CCTV5,http://hms264nc1972679582.live.aikan.miguvideo.com/wh7f454c46tw569374561_186257892/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.144&timestamp=20241002011232&ContentId=265667565&timezone=UTC&mtv_session=4fa2cbb521121f8c0cac85cbca239ca7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fbe0c3d0220bcbafd88b80a66f80e778
+CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
 
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
@@ -34,17 +34,17 @@ CCTV6,
 
 
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
 CCTV7,http://www.joaolei.cn:52282/ysptp/cctv7.m3u8
 CCTV7,http://hms364nc1972679593.live.aikan.miguvideo.com/wh7f454c46tw2202223552_807446893/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.155&timestamp=20241002025120&ContentId=265667268&timezone=UTC&mtv_session=c83e219d229e05b92fb53fdfe4d621b4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a6ea200bba1763af092e6080c8701a53
+CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
 
 CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
 CCTV8,http://hms204nc1972679576.live.aikan.miguvideo.com/wh7f454c46tw152611869_1462144183/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.148&timestamp=20241002021711&ContentId=265667466&timezone=UTC&mtv_session=ddd6bb33820f9b38362a9e8382eed687&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c33feeac6a582277b5ff2f7f8a3c57f
 
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
 CCTV9,http://hms64nc1972679563.live.aikan.miguvideo.com/wh7f454c46tw644835381_-1780360975/migu/kailu/20200324/cctv9hd/50/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.160&timestamp=20241002011348&ContentId=265667202&timezone=UTC&mtv_session=7d822958fb9e2ef527478ae361c1087f&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0106a05fa7e0fd59f126d21b8ff9a5bf
+CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
 
 CCTV10,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
 CCTV10,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
@@ -55,20 +55,20 @@ CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
 CCTV11,http://hms324nc1972679588.live.aikan.miguvideo.com/wh7f454c46tw2844311913_-599624359/migu/kailu/cctv11hd/57/20200103/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.153&timestamp=20241002015027&ContentId=265667429&timezone=UTC&mtv_session=e7737cbf27883e44917ccf34ac957a04&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=488ea446220ff6e6bd5b4bebd59eea00
 
 CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
 CCTV12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw2849284659_-2046931308/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.143&timestamp=20241002015032&ContentId=265667607&timezone=UTC&mtv_session=43c6b9267a6846cef29db8404bf6a8de&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d01f8e62e05059c95042758a2cb587a7
+CCTV12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
 CCTV13,http://hms4nc1972679556.live.aikan.miguvideo.com/wh7f454c46tw865714717_-1381180917/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.154&timestamp=20241002022904&ContentId=265667474&timezone=UTC&mtv_session=c736e15dbbfaa8ec2803fafb7b906653&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=762ca7562b10ef47a54c0667f1ebfa7f
 
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
 CCTV14,http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw2913094538_2103557453/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.149&timestamp=20241002030311&ContentId=265667325&timezone=UTC&mtv_session=a1f3057fe82481fe4c0732fd09af5492&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c0729201f50ecf0b5157d57182e43482
+CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
 
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
 CCTV15,http://hms504nc1972679607.live.aikan.miguvideo.com/wh7f454c46tw2986970305_-718243617/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.152&timestamp=20241002030425&ContentId=265667535&timezone=UTC&mtv_session=534b6310c6666d142aa1a7f80de0b607&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=45c8970d725a0dbb29b3c13aa87f8f41
+CCTV15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
 
 CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
