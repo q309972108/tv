@@ -1,30 +1,37 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,p3p://108.181.32.169:41262/64260c74000c73e9edfa2a0e354364a8
 CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
 CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 CCTV1,http://hms3632nc1972679595.live.aikan.miguvideo.com/wh7f454c46tw2873954073_-1294186318/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.144&timestamp=20241002015057&ContentId=265183188&timezone=UTC&mtv_session=d038aaad9cb01aaeda749a272125f17c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=899d3328f72ab1ac40c996ed745ea163
 
-CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+CCTV2,p3p://108.181.32.169:41262/64260c83000b5f74edfa64604fe67a12
 CCTV2,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw4069284645_1532084664/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.158&timestamp=20241002005917&ContentId=265667329&timezone=UTC&mtv_session=3d97f344120915bf5dad3706fe018e8e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cd0a2b7b645a1dbd7fbf68b2e72c17c2
 CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 
-CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3,p3p://108.181.32.169:41262/64260c9b0000ca3dedfabf6a10b00144
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
 CCTV3,http://hms44nc1972679561.live.aikan.miguvideo.com/wh7f454c46tw3063724004_222884751/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.146&timestamp=20241002015407&ContentId=265667206&timezone=UTC&mtv_session=d141be552458d00715afd4f3123b5819&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c2b5216308c95fec947c8d6837dab8d6
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV4,p3p://108.181.32.169:41262/64260ca5000de050edfae9d444575946
 CCTV4,http://dsm.ats.ink:8012/udp/239.3.1.105:8092
 CCTV4,http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw2356943932_1073170656/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.148&timestamp=20241002025355&ContentId=265667639&timezone=UTC&mtv_session=6b311f7504611d05dfe1ecbe0f24717e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=029659f536fd93e0581ba69070e0a6cb
 
-CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV5,p3p://108.181.32.169:41262/64260cb0000afd53edfb140f10811127
 CCTV5,http://hms264nc1972679582.live.aikan.miguvideo.com/wh7f454c46tw569374561_186257892/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.144&timestamp=20241002011232&ContentId=265667565&timezone=UTC&mtv_session=4fa2cbb521121f8c0cac85cbca239ca7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fbe0c3d0220bcbafd88b80a66f80e778
 CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
 
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+,p3p://108.181.32.169:41262/64260cbc00081417edfb42307c984dd4
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
 CCTV5+,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw4084670800_367025296/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.151&timestamp=20241002005933&ContentId=265106763&timezone=UTC&mtv_session=c7dbfc7a2a3c94453005d57e8c5d201e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=97dffe2c618eb1489c361800ce8b9041
 
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV6,p3p://108.181.32.169:41262/64260cc800087ffdedfb712c61a06569
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://dsm.ats.ink:8012/udp/239.3.1.174:8001
 CCTV6,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw2908731329_148815254/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.147&timestamp=20241002015132&ContentId=265667482&timezone=UTC&mtv_session=825d49420bcf82d062a8c94567ae4f24&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5e93ebc49bd0f49778d8378fa3860947
@@ -34,43 +41,53 @@ CCTV6,
 
 
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV7,p3p://108.181.32.169:41262/64260cd9000ba7ebedfbb46356b665a0
 CCTV7,http://www.joaolei.cn:52282/ysptp/cctv7.m3u8
 CCTV7,http://hms364nc1972679593.live.aikan.miguvideo.com/wh7f454c46tw2202223552_807446893/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.155&timestamp=20241002025120&ContentId=265667268&timezone=UTC&mtv_session=c83e219d229e05b92fb53fdfe4d621b4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a6ea200bba1763af092e6080c8701a53
 CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
 
 CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV8,p3p://108.181.32.169:41262/64260ce50007141fedfbe217161d5245
 CCTV8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
 CCTV8,http://hms204nc1972679576.live.aikan.miguvideo.com/wh7f454c46tw152611869_1462144183/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.148&timestamp=20241002021711&ContentId=265667466&timezone=UTC&mtv_session=ddd6bb33820f9b38362a9e8382eed687&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c33feeac6a582277b5ff2f7f8a3c57f
 
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV9,p3p://108.181.32.169:41262/64260cef0008fa21edfc09a37d024704
 CCTV9,http://hms64nc1972679563.live.aikan.miguvideo.com/wh7f454c46tw644835381_-1780360975/migu/kailu/20200324/cctv9hd/50/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.160&timestamp=20241002011348&ContentId=265667202&timezone=UTC&mtv_session=7d822958fb9e2ef527478ae361c1087f&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0106a05fa7e0fd59f126d21b8ff9a5bf
 CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
 
-CCTV10,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
+CCTV10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+CCTV10,p3p://108.181.32.169:41262/64260d0a000e81f1edfc74866d9b5c0f
 CCTV10,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
 CCTV10,http://hms44nc1972679561.live.aikan.miguvideo.com/wh7f454c46tw674899556_1549325297/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.146&timestamp=20241002011418&ContentId=265667631&timezone=UTC&mtv_session=5a61fc509e58b660c9dbd07999b52a7a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=bb4de009e9fae54118ebb4ba91c1651b
 
 CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV11,p3p://108.181.32.169:41262/64260dce0000aea8edff6e9d426b2704
 CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
 CCTV11,http://hms324nc1972679588.live.aikan.miguvideo.com/wh7f454c46tw2844311913_-599624359/migu/kailu/cctv11hd/57/20200103/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.153&timestamp=20241002015027&ContentId=265667429&timezone=UTC&mtv_session=e7737cbf27883e44917ccf34ac957a04&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=488ea446220ff6e6bd5b4bebd59eea00
 
 CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV12,p3p://108.181.32.169:41262/64260e37000ca83aee010bd5707e0fea
 CCTV12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw2849284659_-2046931308/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.143&timestamp=20241002015032&ContentId=265667607&timezone=UTC&mtv_session=43c6b9267a6846cef29db8404bf6a8de&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d01f8e62e05059c95042758a2cb587a7
 CCTV12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV13,p3p://108.181.32.169:41262/64260e45000ccab2ee01428e6da4043d
 CCTV13,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
 CCTV13,http://hms4nc1972679556.live.aikan.miguvideo.com/wh7f454c46tw865714717_-1381180917/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.154&timestamp=20241002022904&ContentId=265667474&timezone=UTC&mtv_session=c736e15dbbfaa8ec2803fafb7b906653&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=762ca7562b10ef47a54c0667f1ebfa7f
 
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV14,p3p://108.181.32.169:41262/64260e4f0007169bee0168271778447e
 CCTV14,http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw2913094538_2103557453/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.149&timestamp=20241002030311&ContentId=265667325&timezone=UTC&mtv_session=a1f3057fe82481fe4c0732fd09af5492&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c0729201f50ecf0b5157d57182e43482
 CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
 
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV15,p3p://108.181.32.169:41262/64260e5a000a63ffee0193f872fa5767
 CCTV15,http://hms504nc1972679607.live.aikan.miguvideo.com/wh7f454c46tw2986970305_-718243617/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.152&timestamp=20241002030425&ContentId=265667535&timezone=UTC&mtv_session=534b6310c6666d142aa1a7f80de0b607&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=45c8970d725a0dbb29b3c13aa87f8f41
 CCTV15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
 
-CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
+CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV16,p3p://108.181.32.169:41262/642610a2000b33ebee0a7d6c26c160b2
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
 
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
@@ -85,27 +102,36 @@ CCTV17,http://hms444nc1972679600.live.aikan.miguvideo.com/wh7f454c46tw2768543138
 厦门卫视,http://dsm.ats.ink:8012/udp/239.3.1.143:4120
 
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+东南卫视,p3p://108.181.32.169:41262/64260fcb00035aa0ee0733907e64579c
 东南卫视,http://dsm.ats.ink:8012/udp/239.3.1.156:8148
 
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视,p3p://108.181.32.169:41262/64260ef600069de1ee03f45f41e9710e
 东方卫视,http://dsm.ats.ink:8012/udp/239.3.1.136:8032
 
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+浙江卫视,p3p://108.181.32.169:41262/64260fec0004b10aee07b4d0681c628b
 浙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.137:8036
 
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+江苏卫视,p3p://108.181.32.169:41262/64260e700008a9f5ee01e97667ca7d36
+江苏卫视,p3p://108.181.32.169:41262/64260e7d000134abee021a56268d6ac1
 江苏卫视,http://dsm.ats.ink:8012/udp/239.3.1.135:8028
 
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+湖南卫视,p3p://108.181.32.169:41262/64260ee40007c511ee03ae5a4aed536d
 湖南卫视,http://dsm.ats.ink:8012/udp/239.3.1.132:8012
 
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+湖北卫视,p3p://108.181.32.169:41262/64260ed500091677ee0374195121319b
 湖北卫视,http://dsm.ats.ink:8012/udp/239.3.1.138:8044
 
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+安徽卫视,p3p://108.181.32.169:41262/64260fd5000d5883ee075d2f7d6a48e2
 安徽卫视,http://dsm.ats.ink:8012/udp/239.3.1.211:8064
 
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+北京卫视,p3p://108.181.32.169:41262/64260fe100097b88ee078b124b8f3f9d
 北京卫视,http://47.102.200.34:18081/live/program/live/bjwshd8m/8000000/mnf.m3u8
 北京卫视,http://dsm.ats.ink:8012/udp/239.3.1.241:8000
 
@@ -113,21 +139,25 @@ CCTV17,http://hms444nc1972679600.live.aikan.miguvideo.com/wh7f454c46tw2768543138
 天津卫视,http://dsm.ats.ink:8012/udp/239.3.1.141:1234
 
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+广东卫视,p3p://108.181.32.169:41262/64260f9d0003bfdeee067ffb753744c8
 广东卫视,http://dsm.ats.ink:8012/udp/239.3.1.142:8048
 
 广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 广西卫视,http://dsm.ats.ink:8012/udp/239.3.1.39:8300
 
 江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+江西卫视,p3p://108.181.32.169:41262/64260f920000727aee06542a02064fce
 江西卫视,http://dsm.ats.ink:8012/udp/239.3.1.123:8164
 
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+深圳卫视,p3p://108.181.32.169:41262/64261082000a8e12ee0a00412f96293c
 深圳卫视,http://dsm.ats.ink:8012/udp/239.3.1.134:8020
 
 辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 辽宁卫视,http://dsm.ats.ink:8012/udp/239.3.1.210:8056
 
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+重庆卫视,p3p://108.181.32.169:41262/642610b9000df973ee0ad7f9779b6483
 重庆卫视,http://dsm.ats.ink:8012/udp/239.3.1.122:8160
 
 贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
@@ -135,27 +165,32 @@ CCTV17,http://hms444nc1972679600.live.aikan.miguvideo.com/wh7f454c46tw2768543138
 贵州卫视,http://dsm.ats.ink:8012/udp/239.3.1.149:8076
 
 山东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+山东卫视,p3p://108.181.32.169:41262/64260f89000475c3ee06320a031a7286
 山东卫视,http://dsm.ats.ink:8012/udp/239.3.1.209:8052
 
 山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 山西卫视,http://dsm.ats.ink:8012/udp/239.3.1.42:8172
 
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+海南卫视,p3p://108.181.32.169:41262/64260fc10002a54fee070c525d0d5e83
 
 吉林卫视,http://dsm.ats.ink:8012/udp/239.3.1.240:8172
 
 四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
 河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+河南卫视,p3p://108.181.32.169:41262/64260fb100056a93ee06ce871c2e5071
 河南卫视,http://dsm.ats.ink:8012/udp/239.3.1.27:8128
 
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://dsm.ats.ink:8012/udp/239.3.1.148:8072
 
 陕西卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
+陕西卫视,p3p://108.181.32.169:41262/642610c3000df7f5ee0aff0975881941
 陕西卫视,http://dsm.ats.ink:8012/udp/239.3.1.41:8140
 
 黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江卫视,p3p://108.181.32.169:41262/64260fa7000c1330ee06a92c52724886
 黑龙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.133:8016
 
 内蒙古卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
@@ -229,24 +264,25 @@ CCTV17,http://hms444nc1972679600.live.aikan.miguvideo.com/wh7f454c46tw2768543138
 宁化综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
 
 港台频道,#genre#
-
+民视,p3p://108.181.32.169:41262/64251dd200003544ea55fe1c5eb00e42
+民视,p3p://108.181.32.169:41262/6442f24f00097e845edb5e492842265c
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
 民视,rtmp://f13h.mine.nu/sat/tv051
-民视,P2p://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
 
 中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 
+华视,p3p://108.181.32.169:41262/642520cd000995d4ea61a5050eb67a8d
 华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
 华视,rtmp://f13h.mine.nu/sat/tv111
-华视,P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
 
+台视,p3p://108.181.32.169:41262/64251e0800060844ea56d28a6fad038f
 台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 台视,rtmp://f13h.mine.nu/sat/tv071
-台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 
+公视,p3p://108.181.32.169:41262/64251df1000b5a9cea567a0e255d4664
 
 星空卫视,http://nas.jumping.wang:5555/udp/239.93.0.156:2193
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
