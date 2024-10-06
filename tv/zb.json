@@ -1,11 +1,9 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://www.8700956.top:18888/udp/239.81.0.13:4056
-CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 CCTV1,http://www.lebaobei.top:6868/udp/239.255.30.1:8231$标清
+CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
-CCTV2,http://www.8700956.top:18888/udp/239.81.0.115:4056
 CCTV2,http://www.8700956.top:18888/udp/239.81.0.14:4056
 CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 CCTV2,http://www.lebaobei.top:6868/udp/239.255.30.2:8231
@@ -14,7 +12,6 @@ CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV4,http://www.8700956.top:18888/udp/239.81.0.96:4056
 CCTV4,http://www.8700956.top:18888/udp/239.81.0.16:4056
 CCTV4,http://dsm.ats.ink:8012/udp/239.3.1.105:8092
 CCTV4,http://www.lebaobei.top:6868/udp/239.255.30.3:8231
@@ -23,7 +20,7 @@ CCTV5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
 
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
-CCTV5＋,http://www.8700956.top:18888/udp/239.81.0.101:4056
+CCTV5+,http://www.8700956.top:18888/udp/239.81.0.101:4056
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
 
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -33,7 +30,6 @@ CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV7,http://www.8700956.top:18888/udp/239.81.0.116:4056
 CCTV7,http://www.8700956.top:18888/udp/239.81.0.19:4056
 CCTV7,http://www.joaolei.cn:52282/ysptp/cctv7.m3u8
 CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
@@ -44,43 +40,36 @@ CCTV8,http://www.8700956.top:18888/udp/239.81.0.234:4056
 CCTV8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
 
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV9,http://www.8700956.top:18888/udp/239.81.0.117:4056
 CCTV9,http://www.8700956.top:18888/udp/239.81.0.21:4056
 CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
 CCTV9,http://www.lebaobei.top:6868/udp/239.255.30.74:8231
 
 CCTV10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV10,http://www.8700956.top:18888/udp/239.81.0.118:4056
 CCTV10,http://www.8700956.top:18888/udp/239.81.0.22:4056
 CCTV10,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
 CCTV10,http://www.lebaobei.top:6868/udp/239.255.30.6:8231
 
 CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV11,http://www.8700956.top:18888/udp/239.81.0.229:4056
 CCTV11,http://www.8700956.top:18888/udp/239.81.0.23:4056
 CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
 CCTV11,http://www.lebaobei.top:6868/udp/239.255.30.7:8231
 
 CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV12,http://www.8700956.top:18888/udp/239.81.0.119:4056
 CCTV12,http://www.8700956.top:18888/udp/239.81.0.24:4056
 CCTV12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
 CCTV12,http://www.lebaobei.top:6868/udp/239.255.30.8:8231
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV13,http://www.8700956.top:18888/udp/239.81.0.26:4056
 CCTV13,http://www.8700956.top:18888/udp/239.81.0.206:4056
 CCTV13,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
 CCTV13,http://www.lebaobei.top:6868/udp/239.255.30.9:8231
 
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV14,http://www.8700956.top:18888/udp/239.81.0.120:4056
 CCTV14,http://www.8700956.top:18888/udp/239.81.0.25:4056
 CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
 CCTV14,http://www.lebaobei.top:6868/udp/239.255.30.10:8231
 
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV15,http://www.8700956.top:18888/udp/239.81.0.230:4056
 CCTV15,http://www.8700956.top:18888/udp/239.81.0.27:4056
 CCTV15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
 CCTV15,http://www.lebaobei.top:6868/udp/239.255.30.11:8231
@@ -90,7 +79,6 @@ CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
 CCTV16,http://www.lebaobei.top:6868/udp/239.255.30.88:8231
 
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV17,http://www.8700956.top:18888/udp/239.81.0.228:4056
 CCTV17,http://www.8700956.top:18888/udp/239.81.0.227:4056
 CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
