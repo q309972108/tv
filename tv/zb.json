@@ -350,29 +350,27 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 宁化综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
 
 港台频道,#genre#
+民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://37.27.111.214:8080/live/6/hls.m3u8
-民视,p3p://108.181.32.169:41262/6442f24f00097e845edb5e492842265c
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
-民视,rtmp://f13h.mine.nu/sat/tv051
 
 中视,http://ali.hlspull.yximgs.com/live/tboxproqphfwnmfdcqfxcvhqqwqfbfqdyuqqnmfcbsfqeqtyhsdqs.flv
+中视,rtmp://f13h.mine.nu/sat/tv091
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
 中视,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac
 中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
-中视,rtmp://f13h.mine.nu/sat/tv091
 中视,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 
+华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://37.27.111.214:8080/live/8/hls.m3u8
 华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
-华视,rtmp://f13h.mine.nu/sat/tv111
 华视,p3p://108.181.32.169:41262/642520cd000995d4ea61a5050eb67a8d
 
 台视,rtmp://f13h.mine.nu/sat/tv071
 台视,p3p://108.181.32.169:41262/64251e0800060844ea56d28a6fad038f
 台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 台视,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
-
 
 广东频道,#genre#
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
@@ -387,8 +385,6 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-
-
 
 浙江频道,#genre#
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
