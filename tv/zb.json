@@ -350,7 +350,7 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 宁化综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
 
 港台频道,#genre#
-中视,http://37.27.111.214:8080/live/6/hls.m3u8
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
 民视,p3p://108.181.32.169:41262/6442f24f00097e845edb5e492842265c
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
