@@ -1,6 +1,7 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
 CCTV1,http://101.43.66.162/migunew.php?id=cctv1
 CCTV1,http://117.72.68.25:9930/migu.php?id=cctv1
 CCTV1,http://www.lebaobei.top:6868/udp/239.255.30.1:8231
@@ -9,6 +10,7 @@ CCTV1,http://host.gaoxincloud.cn:4000/udp/239.109.205.118:8880
 CCTV1,http://host.gaoxincloud.cn:4000/udp/239.112.205.59:5140
 
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
 CCTV2,http://101.43.66.162/migunew.php?id=cctv2
 CCTV2,http://117.72.68.25:9930/migu.php?id=cctv2
 CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
@@ -17,6 +19,7 @@ CCTV2,http://host.gaoxincloud.cn:4000/udp/239.112.205.78:5140
 CCTV2,http://host.gaoxincloud.cn:4000/udp/239.109.205.106:8784
 
 CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
 CCTV3,http://101.43.66.162/migunew.php?id=cctv3
 CCTV3,http://117.72.68.25:9930/migu.php?id=cctv3
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
@@ -32,6 +35,7 @@ CCTV4,http://host.gaoxincloud.cn:4000/udp/239.112.205.202:5140
 CCTV4,http://host.gaoxincloud.cn:4000/udp/239.109.205.159:9108
 
 CCTV5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
 CCTV5,http://101.43.66.162/migunew.php?id=cctv5
 CCTV5,http://117.72.68.25:9930/migu.php?id=cctv5
 CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
@@ -40,12 +44,14 @@ CCTV5,http://host.gaoxincloud.cn:4000/udp/239.109.205.214:9208
 CCTV5,http://host.gaoxincloud.cn:4000/udp/239.112.205.222:5140
 
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
 CCTV5+,http://101.43.66.162/migunew.php?id=cctv5p
 CCTV5+,http://117.72.68.25:9930/migu.php?id=cctv5p
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
-CCTV5＋,http://host.gaoxincloud.cn:4000/udp/239.111.205.13:5140
+CCTV5+,http://host.gaoxincloud.cn:4000/udp/239.111.205.13:5140
 
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,http://101.43.66.162/migunew.php?id=cctv6
@@ -55,6 +61,7 @@ CCTV6,http://host.gaoxincloud.cn:4000/udp/239.112.205.223:5140
 CCTV6,http://host.gaoxincloud.cn:4000/udp/239.109.205.84:8608
 
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
 CCTV7,http://101.43.66.162/migunew.php?id=cctv7
 CCTV7,http://117.72.68.25:9930/migu.php?id=cctv7
 CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
@@ -63,6 +70,7 @@ CCTV7,http://host.gaoxincloud.cn:4000/udp/239.110.205.7:9774
 CCTV7,http://host.gaoxincloud.cn:4000/udp/239.112.205.83:5140
 
 CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
 CCTV8,http://101.43.66.162/migunew.php?id=cctv8
 CCTV8,http://117.72.68.25:9930/migu.php?id=cctv8
 CCTV8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
@@ -70,6 +78,7 @@ CCTV8,http://host.gaoxincloud.cn:4000/udp/239.109.205.90:8656
 CCTV8,http://host.gaoxincloud.cn:4000/udp/239.112.205.224:5140
 
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
 CCTV9,http://101.43.66.162/migunew.php?id=cctv9
 CCTV9,http://117.72.68.25:9930/migu.php?id=cctv9
 CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
@@ -102,6 +111,7 @@ CCTV12,http://host.gaoxincloud.cn:4000/udp/239.110.205.10:9786
 CCTV12,http://host.gaoxincloud.cn:4000/udp/239.112.205.88:5140
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
 CCTV13,http://101.43.66.162/migunew.php?id=cctv13
 CCTV13,http://117.72.68.25:9930/migu.php?id=cctv13
 CCTV13,https://lives.jnnews.tv/video/s10001-cctv/index.m3u8
@@ -126,6 +136,7 @@ CCTV15,http://host.gaoxincloud.cn:4000/udp/239.109.205.103:8760
 CCTV15,http://host.gaoxincloud.cn:4000/udp/239.112.205.214:5140
 
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
 CCTV16,http://101.43.66.162/migunew.php?id=cctv16
 CCTV16,http://117.72.68.25:9930/migu.php?id=cctv16
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
@@ -153,6 +164,7 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 东南卫视,http://dsm.ats.ink:8012/udp/239.3.1.156:8148
 
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视,http://eastscreen.tv/ooooo.php?id=dfwshd
 东方卫视,http://101.43.66.162/migunew.php?id=dfws
 东方卫视,http://117.72.68.25:9930/migu.php?id=dfws
 东方卫视,http://host.gaoxincloud.cn:4000/udp/239.112.205.61:5140
@@ -160,6 +172,7 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 东方卫视,http://dsm.ats.ink:8012/udp/239.3.1.136:8032
 
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+浙江卫视,http://eastscreen.tv/ooooo.php?id=zjwshd
 浙江卫视,http://host.gaoxincloud.cn:4000/udp/239.112.205.64:5140
 浙江卫视,http://host.gaoxincloud.cn:4000/udp/239.109.205.120:8896
 浙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.137:8036
@@ -172,6 +185,7 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 江苏卫视,http://dsm.ats.ink:8012/udp/239.3.1.135:8028
 
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+湖南卫视,http://eastscreen.tv/ooooo.php?id=hnwshd
 湖南卫视,http://host.gaoxincloud.cn:4000/udp/239.112.205.62:5140
 湖南卫视,http://host.gaoxincloud.cn:4000/udp/239.109.205.163:9002
 湖南卫视,http://dsm.ats.ink:8012/udp/239.3.1.132:8012
@@ -200,6 +214,7 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 天津卫视,http://dsm.ats.ink:8012/udp/239.3.1.141:1234
 
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd
 广东卫视,http://101.43.66.162/migunew.php?id=gdws
 广东卫视,http://117.72.68.25:9930/migu.php?id=gdws
 广东卫视,http://host.gaoxincloud.cn:4000/udp/239.112.205.66:5140
