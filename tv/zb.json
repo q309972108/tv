@@ -1,6 +1,5 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV1,http://125.109.62.72:9999/udp/233.50.200.99:5140
 CCTV1,http://125.109.62.72:9999/udp/233.50.200.130:5140
 CCTV1,http://125.109.62.72:9999/udp/233.50.200.143:5140
@@ -10,6 +9,7 @@ CCTV1,http://114.98.161.147:2000/rtp/238.1.78.166:7200
 CCTV1,http://ds.shixd.cn:5957/rtp/239.49.8.129:6000
 CCTV1,http://101.43.66.162/migunew.php?id=cctv1
 CCTV1,http://117.72.68.25:9930/migu.php?id=cctv1
+CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV1,http://www.lebaobei.top:6868/udp/239.255.30.1:8231
 CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 CCTV1,http://host.gaoxincloud.cn:4000/udp/239.109.205.118:8880
@@ -67,7 +67,6 @@ CCTV5,http://host.gaoxincloud.cn:4000/udp/239.112.205.222:5140
 CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
 
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
-CCTV5+,http://125.109.62.72:9999/udp/233.50.201.220:5140
 CCTV5+,http://114.98.161.147:2000/rtp/238.1.78.237:7768
 CCTV5+,http://ds.shixd.cn:5957/rtp/239.49.8.137:6000
 CCTV5+,http://101.43.66.162/migunew.php?id=cctv5p
