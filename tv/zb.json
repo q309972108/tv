@@ -215,7 +215,6 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 
 卫视频道,#genre#
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
-厦门卫视,http://114.98.161.147:2000/rtp/238.1.78.246:7840
 厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140
 厦门卫视,http://124.94.193.136:9902/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
