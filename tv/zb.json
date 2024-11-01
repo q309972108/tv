@@ -1,5 +1,6 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV1,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv1hd&channel-id=jsll
 CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv1
 CCTV1,http://117.72.68.25:9930/migu.php?id=cctv1
 CCTV1,http://ds.shixd.cn:5957/rtp/239.49.8.129:6000
@@ -11,6 +12,7 @@ CCTV1,http://host.gaoxincloud.cn:4000/udp/239.112.205.59:5140
 CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
 
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+CCTV2,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv2hd&channel-id=jsll
 CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv2
 CCTV2,http://117.72.68.25:9930/migu.php?id=cctv2
 CCTV2,http://ds.shixd.cn:5957/rtp/239.49.8.130:6000
@@ -21,6 +23,7 @@ CCTV2,http://host.gaoxincloud.cn:4000/udp/239.109.205.106:8784
 CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
 
 CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv3hd&channel-id=jsll
 CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv3
 CCTV3,http://117.72.68.25:9930/migu.php?id=cctv3
 CCTV3,http://ds.shixd.cn:5957/rtp/239.49.9.31:6000
@@ -30,6 +33,7 @@ CCTV3,http://host.gaoxincloud.cn:4000/udp/239.112.205.221:5140
 CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV4,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv4hd&channel-id=jsll
 CCTV4,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv4
 CCTV4,http://117.72.68.25:9930/migu.php?id=cctv4
 CCTV4,http://ds.shixd.cn:5957/rtp/239.49.8.131:6000
@@ -39,6 +43,7 @@ CCTV4,http://host.gaoxincloud.cn:4000/udp/239.112.205.202:5140
 CCTV4,http://host.gaoxincloud.cn:4000/udp/239.109.205.159:9108
 
 CCTV5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV5,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv5hd&channel-id=jsll
 CCTV5,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5
 CCTV5,http://117.72.68.25:9930/migu.php?id=cctv5
 CCTV5,http://ds.shixd.cn:5957/rtp/239.49.9.32:6000
@@ -49,6 +54,7 @@ CCTV5,http://host.gaoxincloud.cn:4000/udp/239.112.205.222:5140
 CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
 
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv5phd&channel-id=jsll
 CCTV5+,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv5p
 CCTV5+,http://117.72.68.25:9930/migu.php?id=cctv5p
 CCTV5+,http://ds.shixd.cn:5957/rtp/239.49.8.137:6000
@@ -57,6 +63,7 @@ CCTV5+,http://host.gaoxincloud.cn:4000/udp/239.111.205.13:5140
 CCTV5+,http://eastscreen.tv/ooooo.php?id=CCTV5+HD
 
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV6,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv6hd&channel-id=jsll
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv6
@@ -68,6 +75,7 @@ CCTV6,http://host.gaoxincloud.cn:4000/udp/239.109.205.84:8608
 CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
 
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV7,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv7hd&channel-id=jsll
 CCTV7,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv7
 CCTV7,http://117.72.68.25:9930/migu.php?id=cctv7
 CCTV7,http://ds.shixd.cn:5957/rtp/239.49.8.132:6000
@@ -78,6 +86,7 @@ CCTV7,http://host.gaoxincloud.cn:4000/udp/239.112.205.83:5140
 CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
 
 CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV8,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv8hd&channel-id=jsll
 CCTV8,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv8
 CCTV8,http://117.72.68.25:9930/migu.php?id=cctv8
 CCTV8,http://ds.shixd.cn:5957/rtp/239.49.9.34:6000
@@ -87,6 +96,7 @@ CCTV8,http://host.gaoxincloud.cn:4000/udp/239.112.205.224:5140
 CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
 
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV9,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv9hd&channel-id=jsll
 CCTV9,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv9
 CCTV9,http://117.72.68.25:9930/migu.php?id=cctv9
 CCTV9,http://ds.shixd.cn:5957/rtp/239.49.8.133:6000
@@ -97,6 +107,7 @@ CCTV9,http://host.gaoxincloud.cn:4000/udp/239.112.205.85:5140
 CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
 
 CCTV10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+CCTV10,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv10hd&channel-id=jsll
 CCTV10,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv10
 CCTV10,http://117.72.68.25:9930/migu.php?id=cctv10
 CCTV10,http://ds.shixd.cn:5957/rtp/239.49.8.134:6000
@@ -106,6 +117,7 @@ CCTV10,http://host.gaoxincloud.cn:4000/udp/239.110.205.9:9782
 CCTV10,http://host.gaoxincloud.cn:4000/udp/239.112.205.86:5140
 
 CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV11,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv11hd&channel-id=jsll
 CCTV11,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv11
 CCTV11,http://117.72.68.25:9930/migu.php?id=cctv11
 CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
@@ -114,6 +126,7 @@ CCTV11,http://host.gaoxincloud.cn:4000/udp/239.109.205.102:8752
 CCTV11,http://host.gaoxincloud.cn:4000/udp/239.112.205.213:5140
 
 CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV12,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv12hd&channel-id=jsll
 CCTV12,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv12
 CCTV12,http://117.72.68.25:9930/migu.php?id=cctv12
 CCTV12,http://ds.shixd.cn:5957/rtp/239.49.8.135:6000
@@ -133,6 +146,7 @@ CCTV13,http://host.gaoxincloud.cn:4000/udp/239.111.205.53:5140
 CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
 
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV14,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv14hd&channel-id=jsll
 CCTV14,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv14
 CCTV14,http://117.72.68.25:9930/migu.php?id=cctv14
 CCTV14,http://ds.shixd.cn:5957/rtp/239.49.8.136:6000
@@ -142,6 +156,7 @@ CCTV14,http://host.gaoxincloud.cn:4000/udp/239.110.205.20:9826
 CCTV14,http://host.gaoxincloud.cn:4000/udp/239.112.205.91:5140
 
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV15,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv15hd&channel-id=jsll
 CCTV15,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv15
 CCTV15,http://117.72.68.25:9930/migu.php?id=cctv15
 CCTV15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
@@ -150,6 +165,7 @@ CCTV15,http://host.gaoxincloud.cn:4000/udp/239.109.205.103:8760
 CCTV15,http://host.gaoxincloud.cn:4000/udp/239.112.205.214:5140
 
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV16,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv16hd&channel-id=jsll
 CCTV16,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv16
 CCTV16,http://117.72.68.25:9930/migu.php?id=cctv16
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
@@ -158,6 +174,7 @@ CCTV16,http://host.gaoxincloud.cn:4000/udp/239.111.205.133:5140
 CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
 
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV17,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv17hd&channel-id=jsll
 CCTV17,http://211.101.247.19:6699/api/migu.php?type=hls&url=cctv17
 CCTV17,http://117.72.68.25:9930/migu.php?id=cctv17
 CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
@@ -443,8 +460,8 @@ CCTV17,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
 
-中视,http://ali.hlspull.yximgs.com/live/tboxproqphfwnmfdcqfxcvhqqwqfbfqdyuqqnmfcbsfqeqtyhsdqs.flv
 中视,rtmp://59.124.75.138:1935/sat/tv091
+中视,http://ali.hlspull.yximgs.com/live/tboxproqphfwnmfdcqfxcvhqqwqfbfqdyuqqnmfcbsfqeqtyhsdqs.flv
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
 中视,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac
