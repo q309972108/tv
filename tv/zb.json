@@ -74,9 +74,10 @@
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:74d9:21::6]/270000001128/9900000001/index.m3u8
-CCTV1,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv1hd&channel-id=jsll
-CCTV1,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv1
 CCTV1,http://36.46.98.40:8015/rtp/239.112.205.59:5140
+CCTV1,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv1
+CCTV1,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
+CCTV1,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv1hd&channel-id=jsll
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 CCTV1,http://www.lebaobei.top:6868/udp/239.255.30.1:8231
@@ -86,6 +87,7 @@ CCTV2,http://[2409:8087:74d9:21::6]/270000001128/9900000502/index.m3u8
 CCTV2,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv2hd&channel-id=jsll
 CCTV2,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv2
 CCTV2,http://36.46.98.40:8015/rtp/239.112.205.78:5140
+CCTV2,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2
 CCTV2,http://ds.shixd.cn:5957/rtp/239.49.8.130:6000
 CCTV2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 CCTV2,http://www.lebaobei.top:6868/udp/239.255.30.2:8231
@@ -94,6 +96,7 @@ CCTV2,http://eastscreen.tv/ooooo.php?id=CCTV2HD
 CCTV3,http://[2409:8087:74d9:21::6]/270000001128/9900000003/index.m3u8
 CCTV3,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv3hd&channel-id=jsll
 CCTV3,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv3
+CCTV3,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
 CCTV3,http://36.46.98.40:8015/rtp/239.112.205.221:5140
 CCTV3,http://ds.shixd.cn:5957/rtp/239.49.9.31:6000
 CCTV3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
@@ -102,6 +105,7 @@ CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
 CCTV4,http://[2409:8087:74d9:21::6]/270000001128/9900000503/index.m3u8
 CCTV4,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv4hd&channel-id=jsll
 CCTV4,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv4
+CCTV4,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
 CCTV4,http://36.46.98.40:8015/rtp/239.112.205.202:5140
 CCTV4,http://ds.shixd.cn:5957/rtp/239.49.8.131:6000
 CCTV4,http://dsm.ats.ink:8012/udp/239.3.1.105:8092
@@ -110,6 +114,7 @@ CCTV4,http://www.lebaobei.top:6868/udp/239.255.30.3:8231
 CCTV5,http://[2409:8087:74d9:21::6]/270000001128/9900000005/index.m3u8
 CCTV5,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv5hd&channel-id=jsll
 CCTV5,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5
+CCTV5,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
 CCTV5,http://36.46.98.40:8015/rtp/239.112.205.222:5140
 CCTV5,http://ds.shixd.cn:5957/rtp/239.49.9.32:6000
 CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
@@ -118,6 +123,7 @@ CCTV5,http://eastscreen.tv/ooooo.php?id=CCTV5HD
 CCTV5+,http://[2409:8087:74d9:21::6]/270000001128/9900000507/index.m3u8
 CCTV5+,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv5phd&channel-id=jsll
 CCTV5+,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv5p
+CCTV5+,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
 CCTV5+,http://36.46.98.40:8015/rtp/239.111.205.13:5140
 CCTV5+,http://ds.shixd.cn:5957/rtp/239.49.8.137:6000
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
@@ -127,6 +133,7 @@ CCTV6,http://[2409:8087:74d9:21::6]/270000001128/9900000006/index.m3u8
 CCTV6,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv6hd&channel-id=jsll
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv6
+CCTV6,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv6
 CCTV6,http://36.46.98.40:8015/rtp/239.112.205.223:5140
 CCTV6,http://ds.shixd.cn:5957/rtp/239.49.9.33:6000
 CCTV6,http://dsm.ats.ink:8012/udp/239.3.1.174:8001
@@ -135,6 +142,7 @@ CCTV6,http://eastscreen.tv/ooooo.php?id=CCTV6HD
 CCTV7,http://[2409:8087:74d9:21::6]/270000001128/9900000504/index.m3u8
 CCTV7,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv7hd&channel-id=jsll
 CCTV7,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv7
+CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
 CCTV7,http://36.46.98.40:8015/rtp/239.112.205.83:5140
 CCTV7,http://ds.shixd.cn:5957/rtp/239.49.8.132:6000
 CCTV7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
@@ -144,6 +152,7 @@ CCTV7,http://eastscreen.tv/ooooo.php?id=CCTV7HD
 CCTV8,http://[2409:8087:74d9:21::6]/270000001128/9900000505/index.m3u8
 CCTV8,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv8hd&channel-id=jsll
 CCTV8,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv8
+CCTV8,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv8
 CCTV8,http://36.46.98.40:8015/rtp/239.112.205.224:5140
 CCTV8,http://ds.shixd.cn:5957/rtp/239.49.9.34:6000
 CCTV8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
@@ -152,6 +161,7 @@ CCTV8,http://eastscreen.tv/ooooo.php?id=CCTV8HD
 CCTV9,http://[2409:8087:74d9:21::6]/270000001128/9900000505/index.m3u8
 CCTV9,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv9hd&channel-id=jsll
 CCTV9,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv9
+CCTV9,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv9
 CCTV9,http://36.46.98.40:8015/rtp/239.112.205.85:5140
 CCTV9,http://ds.shixd.cn:5957/rtp/239.49.8.133:6000
 CCTV9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
@@ -161,6 +171,7 @@ CCTV9,http://eastscreen.tv/ooooo.php?id=CCTV9HD
 CCTV10,http://[2409:8087:74d9:21::6]/270000001128/9900000506/index.m3u8
 CCTV10,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv10hd&channel-id=jsll
 CCTV10,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv10
+CCTV10,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv10
 CCTV10,http://36.46.98.40:8015/rtp/239.112.205.86:5140
 CCTV10,http://ds.shixd.cn:5957/rtp/239.49.8.134:6000
 CCTV10,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
@@ -169,6 +180,7 @@ CCTV10,http://www.lebaobei.top:6868/udp/239.255.30.6:8231
 CCTV11,http://[2409:8087:74d9:21::6]/270000001128/9900000508/index.m3u8
 CCTV11,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv11hd&channel-id=jsll
 CCTV11,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv11
+CCTV11,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv11
 CCTV11,http://36.46.98.40:8015/rtp/239.112.205.213:5140
 CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
 CCTV11,http://www.lebaobei.top:6868/udp/239.255.30.7:8231
@@ -176,6 +188,7 @@ CCTV11,http://www.lebaobei.top:6868/udp/239.255.30.7:8231
 CCTV12,http://[2409:8087:74d9:21::6]/270000001128/9900000509/index.m3u8
 CCTV12,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv12hd&channel-id=jsll
 CCTV12,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv12
+CCTV12,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv12
 CCTV12,http://36.46.98.40:8015/rtp/239.112.205.88:5140
 CCTV12,http://ds.shixd.cn:5957/rtp/239.49.8.135:6000
 CCTV12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
@@ -184,6 +197,7 @@ CCTV12,http://www.lebaobei.top:6868/udp/239.255.30.8:8231
 CCTV13,http://[2409:8087:74d9:21::6]/270000001128/9900000510/index.m3u8
 CCTV13,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv13&channel-id=jsll
 CCTV13,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv13
+CCTV13,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
 CCTV13,http://ds.shixd.cn:5957/rtp/239.49.9.43:6000
 CCTV13,https://lives.jnnews.tv/video/s10001-cctv/index.m3u8
 CCTV13,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
@@ -193,6 +207,7 @@ CCTV13,http://eastscreen.tv/ooooo.php?id=CCTV13HD
 CCTV14,http://[2409:8087:74d9:21::6]/270000001128/9900000511/index.m3u8
 CCTV14,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv14hd&channel-id=jsll
 CCTV14,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv14
+CCTV14,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv14
 CCTV14,http://36.46.98.40:8015/rtp/239.112.205.91:5140
 CCTV14,http://ds.shixd.cn:5957/rtp/239.49.8.136:6000
 CCTV14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
@@ -201,6 +216,7 @@ CCTV14,http://www.lebaobei.top:6868/udp/239.255.30.10:8231
 CCTV15,http://[2409:8087:74d9:21::6]/270000001128/9900000512/index.m3u8
 CCTV15,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv15hd&channel-id=jsll
 CCTV15,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv15
+CCTV15,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
 CCTV15,http://36.46.98.40:8015/rtp/239.112.205.214:5140
 CCTV15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
 CCTV15,http://www.lebaobei.top:6868/udp/239.255.30.11:8231
@@ -208,6 +224,7 @@ CCTV15,http://www.lebaobei.top:6868/udp/239.255.30.11:8231
 CCTV16,http://[2409:8087:74d9:21::6]/270000001128/9900000016/index.m3u8
 CCTV16,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv16hd&channel-id=jsll
 CCTV16,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv16
+CCTV16,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv16
 CCTV16,http://36.46.98.40:8015/rtp/239.111.205.134:5140
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
 CCTV16,http://www.lebaobei.top:6868/udp/239.255.30.88:8231
@@ -216,6 +233,7 @@ CCTV16,http://eastscreen.tv/ooooo.php?id=CCTV16HD
 CCTV17,http://[2409:8087:74d9:21::9]/270000001128/9900000513/index.m3u8
 CCTV17,http://atv.kdzj.vip:4003/sjds.php?Contentid=cctv17hd&channel-id=jsll
 CCTV17,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv17
+CCTV17,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
 CCTV17,http://36.46.98.40:8015/rtp/239.112.205.211:5140
 CCTV17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
@@ -224,6 +242,8 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 卫视频道,#genre#
 厦门卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000058/index.m3u8
 厦门卫视,http://36.46.98.40:8015/rtp/239.112.205.60:5140
+厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8 
+厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8 
 厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140
 厦门卫视,http://dsm.ats.ink:8012/udp/239.3.1.143:4120
 厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -235,8 +255,9 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 东南卫视,http://dsm.ats.ink:8012/udp/239.3.1.156:8148
 
 东方卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000518/index.m3u8
-东方卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=dfws
 东方卫视,http://36.46.98.40:8015/rtp/239.112.205.61:5140
+东方卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dfws
+东方卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=dfws
 东方卫视,http://ds.shixd.cn:5957/rtp/239.49.1.32:6000
 东方卫视,http://ds.shixd.cn:5957/rtp/239.49.8.140:6000
 东方卫视,http://dsm.ats.ink:8012/udp/239.3.1.136:8032
@@ -248,8 +269,9 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 浙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.137:8036
 
 江苏卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000524/index.m3u8
-江苏卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=jsws
 江苏卫视,http://36.46.98.40:8015/rtp/239.112.205.63:5140
+江苏卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsws
+江苏卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=jsws
 江苏卫视,http://ds.shixd.cn:5957/rtp/239.49.1.16:6000
 江苏卫视,http://ds.shixd.cn:5957/rtp/239.49.8.138:6000
 江苏卫视,http://dsm.ats.ink:8012/udp/239.3.1.135:8028
@@ -261,8 +283,9 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 湖南卫视,http://dsm.ats.ink:8012/udp/239.3.1.132:8012
 
 湖北卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000522/index.m3u8
-湖北卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=hubws
 湖北卫视,http://36.46.98.40:8015/rtp/239.112.205.69:5140
+湖北卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hubws
+湖北卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=hubws
 湖北卫视,http://ds.shixd.cn:5957/rtp/239.49.1.48:6000
 湖北卫视,http://ds.shixd.cn:5957/rtp/239.49.8.147:6000
 湖北卫视,http://dsm.ats.ink:8012/udp/239.3.1.138:8044
@@ -286,8 +309,9 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 天津卫视,http://dsm.ats.ink:8012/udp/239.3.1.141:1234
 
 广东卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000520/index.m3u8
-广东卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=gdws
 广东卫视,http://36.46.98.40:8015/rtp/239.112.205.66:5140
+广东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
+广东卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=gdws
 广东卫视,http://ds.shixd.cn:5957/rtp/239.49.8.143:6000
 广东卫视,http://ds.shixd.cn:5957/rtp/239.49.1.39:6000
 广东卫视,http://dsm.ats.ink:8012/udp/239.3.1.142:8048
@@ -298,8 +322,9 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 广西卫视,http://dsm.ats.ink:8012/udp/239.3.1.39:8300
 
 江西卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000525/index.m3u8
-江西卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=jxws
 江西卫视,http://36.46.98.40:8015/rtp/239.111.205.16:5140
+江西卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jxws
+江西卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=jxws
 江西卫视,http://ds.shixd.cn:5957/rtp/239.49.1.47:6000
 江西卫视,http://ds.shixd.cn:5957/rtp/239.49.8.185:6000
 江西卫视,http://dsm.ats.ink:8012/udp/239.3.1.123:8164
@@ -338,13 +363,15 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 山西卫视,http://dsm.ats.ink:8012/udp/239.3.1.42:8172
 
 海南卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000037/index.m3u8
+海南卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hinws
 海南卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=hinws
 海南卫视,http://ds.shixd.cn:5957/rtp/239.49.1.41:6000
 海南卫视,http://ds.shixd.cn:5957/rtp/239.49.8.212:6000
 
 吉林卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000030/index.m3u8
-吉林卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=jlws
 吉林卫视,http://36.46.98.40:8015/rtp/239.112.205.183:5140
+吉林卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hinws
+吉林卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=jlws
 吉林卫视,http://ds.shixd.cn:5957/rtp/239.49.8.187:6000
 吉林卫视,http://ds.shixd.cn:5957/rtp/239.49.1.49:6000
 吉林卫视,http://dsm.ats.ink:8012/udp/239.3.1.240:8172
@@ -367,6 +394,7 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 河北卫视,http://dsm.ats.ink:8012/udp/239.3.1.148:8072
 
 陕西卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000026/index.m3u8
+陕西卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=sxws
 陕西卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=sxws
 陕西卫视,http://ds.shixd.cn:5957/rtp/239.49.1.248:6000
 陕西卫视,http://dsm.ats.ink:8012/udp/239.3.1.41:8140
@@ -382,9 +410,10 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 内蒙古卫视,http://dsm.ats.ink:8012/udp/239.3.1.43:8176
 
 青海卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000042/index.m3u8
+青海卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=qhws
+青海卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=qhws
 青海卫视,http://ds.shixd.cn:5957/rtp/239.49.1.31:6000
 青海卫视,http://ds.shixd.cn:5957/rtp/239.49.1.53:6000
-青海卫视,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=qhws
 青海卫视,http://dsm.ats.ink:8012/udp/239.3.1.44:8184
 
 云南卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000035/index.m3u8
@@ -427,6 +456,8 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 福建频道,#genre#
 厦门卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000058/index.m3u8
 厦门卫视,http://36.46.98.40:8015/rtp/239.112.205.60:5140
+厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8 
+厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8 
 厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140
 厦门卫视,http://dsm.ats.ink:8012/udp/239.3.1.143:4120
 厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
