@@ -389,107 +389,57 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 宁化综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
 
 港台频道,#genre#
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
+民视,rtmp://f13h.mine.nu/sat/tv051
 
-中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
 中视,rtmp://f13h.mine.nu/sat/tv091
 
-华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
 华视,rtmp://f13h.mine.nu/sat/tv111
 
-台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 台视,rtmp://f13h.mine.nu/sat/tv071
 
-八大娱乐,p3p://108.181.32.169:27616/642520730002bc15ea6043b344e032a5
-
-八大第一,p3p://108.181.32.169:27616/6425207f00050f7aea60732c51b94fad
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 
-八大综合,p3p://108.181.32.169:27616/642520b0000c3261ea61346800d61673
-八大综合,http://211.72.65.236:8526/.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
-八大戏剧,p3p://108.181.32.169:27616/642520c1000929efea61760938521b57
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 
-八大精彩,p3p://108.181.32.169:27616/65435f63000ba94069331ccd6399041b
-
-纬来电影,p3p://108.181.32.169:27616/64251eae0001bef7ea5959e100ae671e
-
-纬来体育,p3p://108.181.32.169:27616/64251ee9000a4e00ea5a428b26ea4156
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
-纬来日本,p3p://108.181.32.169:27616/64251ef6000315a6ea5a737a6efc404a
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 
-纬来精彩,p3p://108.181.32.169:27616/64251f020003818bea5aa2750fef31c6
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-
-纬来综合,p3p://108.181.32.169:27616/64251f0d000c0b8fea5acf9d13b83665
 
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 
-中天娱乐,p3p://108.181.32.169:27616/642525670005ee2bea739da573c134b4
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 
-中天亚洲,p3p://108.181.32.169:27616/64254f7e000dfed1eb1809855c5735ce
-
-中天综合,p3p://108.181.32.169:27616/642d0188000d7c49092747f97ffc7c72
-
-中天新闻,http://211.72.65.236:8541/.m3u8
-中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-
-非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-
-民视新闻,p3p://108.181.32.169:27616/64c859e10007934267f487ac0fa618e0
-民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
-
-华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-
-台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
-
-中视新闻,p3p://108.181.32.169:27616/642d016e000643ab0926e0907da252ca
-中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-
-东森新闻,p3p://108.181.32.169:27616/64251f9700046520ea5ce8b85b6c11da
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-
-东森财经,p3p://108.181.32.169:27616/64251ff20001f010ea5e4b9002e57212
-
-东森幼幼,p3p://108.181.32.169:27616/6430b41c0001f3831798d72948126428
-
-东森综合,p3p://108.181.32.169:27616/64253f6e0002d287ead9482831323a6d
-
-东森戏剧,p3p://108.181.32.169:27616/64251f7a000bc46eea5c79536d5e2a0e
-
-东森电影,p3p://108.181.32.169:27616/64253899000a078deabe99ff587050b0
-
-东森洋片,p3p://108.181.32.169:27616/64251f8a0008854aea5cb6fe64e47b4e
 
 陌陌综合,rtmp://f13h.mine.nu/sat/tv761
 
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 
-三立台湾,p3p://108.181.32.169:27616/64251e5e0003388bea5821c268061bfb
-
-三立戏剧,p3p://108.181.32.169:27616/64251e39000ed5bbea579433569b6381
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 
-三立综合,p3p://108.181.32.169:27616/64251e49000e34e7ea57d28a25014df2
-
-三立都会,p3p://108.181.32.169:27616/64251e7300064780ea587492773a63cc
-
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
+大爱1,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+大爱2,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+大爱3,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+
+GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 广东频道,#genre#
 广东卫视,http://112.6.197.24:9921/hls/27/index.m3u8
