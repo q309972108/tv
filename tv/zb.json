@@ -397,6 +397,8 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 
 台视,rtmp://f13h.mine.nu/sat/tv071
 
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
@@ -440,6 +442,22 @@ GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+TVB无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+
+TVBJ2,http://bziyunshao.synology.me:8890/bysid/82
+
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
 广东频道,#genre#
 广东卫视,http://112.6.197.24:9921/hls/27/index.m3u8
