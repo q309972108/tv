@@ -228,10 +228,11 @@ CCTV17,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
 CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 
 卫视频道,#genre#
-厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://115.60.241.249:2000/rtp/225.1.4.95:1124
+厦门卫视,http://222.209.208.234:7088/rtp/239.93.42.57:5140
+厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8 
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8 
-厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140
 
 东南卫视,http://112.6.197.24:9921/hls/25/index.m3u8
 东南卫视,http://1.24.190.90:1080/hls/88/index.m3u8
@@ -395,10 +396,11 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 延边卫视,http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8
 
 福建频道,#genre#
-厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://115.60.241.249:2000/rtp/225.1.4.95:1124
+厦门卫视,http://222.209.208.234:7088/rtp/239.93.42.57:5140
+厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8 
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8 
-厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140
 
 东南卫视,http://112.6.197.24:9921/hls/25/index.m3u8
 东南卫视,http://1.24.190.90:1080/hls/88/index.m3u8
