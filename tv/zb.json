@@ -39,6 +39,7 @@
 
 
 央视频道,#genre#
+CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
 CCTV1,http://112.6.197.24:9921/hls/1/index.m3u8
 CCTV1,http://1.24.190.90:1080/hls/1/index.m3u8
@@ -48,7 +49,9 @@ CCTV1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581250417_
 CCTV1,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv1
 CCTV1,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+CCTV1,http://115.149.139.141:10000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fe8M_1QCWSd35gkY-Q1BSH%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192539%2C%2C%2C20240420192539%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV2,http://106.53.99.30/dl/bjyd.php?id=2
 CCTV2,http://112.6.197.24:9921/hls/2/index.m3u8
 CCTV2,http://1.24.190.90:1080/hls/2/index.m3u8
@@ -58,6 +61,7 @@ CCTV2,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv2
 CCTV2,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2
 CCTV2,http://ds.shixd.cn:5957/rtp/239.49.8.130:6000
 CCTV2,http://www.lebaobei.top:6868/udp/239.255.30.2:8231
+CCTV2,http://115.149.139.141:10000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 
 CCTV3,http://112.6.197.24:9921/hls/3/index.m3u8
 CCTV3,http://1.24.190.90:1080/hls/3/index.m3u8
@@ -66,7 +70,9 @@ CCTV3,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581797368_
 CCTV3,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv3
 CCTV3,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
 CCTV3,http://ds.shixd.cn:5957/rtp/239.49.9.31:6000
+CCTV3,http://115.149.139.141:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
 CCTV4,http://112.6.197.24:9921/hls/4/index.m3u8
 CCTV4,http://1.24.190.90:1080/hls/4/index.m3u8
@@ -76,6 +82,7 @@ CCTV4,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv4
 CCTV4,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
 CCTV4,http://ds.shixd.cn:5957/rtp/239.49.8.131:6000
 CCTV4,http://www.lebaobei.top:6868/udp/239.255.30.3:8231
+CCTV4,http://115.149.139.141:10000/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 
 CCTV5,http://112.6.197.24:9921/hls/5/index.m3u8
 CCTV5,http://1.24.190.90:1080/hls/5/index.m3u8
@@ -85,6 +92,7 @@ CCTV5,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1583280123_
 CCTV5,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv5
 CCTV5,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
 CCTV5,http://ds.shixd.cn:5957/rtp/239.49.9.32:6000
+CCTV5,http://115.149.139.141:10000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 
 CCTV5+,http://112.6.197.24:9921/hls/6/index.m3u8
 CCTV5+,http://1.24.190.90:1080/hls/16/index.m3u8
@@ -102,7 +110,9 @@ CCTV6,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1584168866_
 CCTV6,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv6
 CCTV6,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv6
 CCTV6,http://ds.shixd.cn:5957/rtp/239.49.9.33:6000
+CCTV6,http://115.149.139.141:10000/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fc_MEUOVd0CBbc2BFzAJH_%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192548%2C%2C%2C20240420192548%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV7,http://106.53.99.30/dl/bjyd.php?id=4
 CCTV7,http://112.6.197.24:9921/hls/8/index.m3u8
 CCTV7,http://1.24.190.90:1080/hls/7/index.m3u8
@@ -112,6 +122,7 @@ CCTV7,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv7
 CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
 CCTV7,http://ds.shixd.cn:5957/rtp/239.49.8.132:6000
 CCTV7,http://www.lebaobei.top:6868/udp/239.255.30.4:8231
+CCTV7,http://115.149.139.141:10000/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 
 CCTV8,http://112.6.197.24:9921/hls/9/index.m3u8
 CCTV8,http://1.24.190.90:1080/hls/8/index.m3u8
@@ -120,7 +131,9 @@ CCTV8,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1584743785_
 CCTV8,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv8
 CCTV8,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv8
 CCTV8,http://ds.shixd.cn:5957/rtp/239.49.9.34:6000
+CCTV8,http://115.149.139.141:10000/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EqTu3rtglooDaG_6P7QG0G%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192550%2C%2C%2C20240420192550%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV9,http://106.53.99.30/dl/bjyd.php?id=5
 CCTV9,http://112.6.197.24:9921/hls/10/index.m3u8
 CCTV9,http://1.24.190.90:1080/hls/9/index.m3u8
@@ -130,7 +143,9 @@ CCTV9,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv9
 CCTV9,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv9
 CCTV9,http://ds.shixd.cn:5957/rtp/239.49.8.133:6000
 CCTV9,http://www.lebaobei.top:6868/udp/239.255.30.74:8231
+CCTV9,http://115.149.139.141:10000/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7G2pNzf8WZUYdQj6fRj0xqk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192551%2C%2C%2C20240420192551%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV10,http://106.53.99.30/dl/bjyd.php?id=6
 CCTV10,http://112.6.197.24:9921/hls/11/index.m3u8
 CCTV10,http://1.24.190.90:1080/hls/10/index.m3u8
@@ -140,7 +155,9 @@ CCTV10,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv10
 CCTV10,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv10
 CCTV10,http://ds.shixd.cn:5957/rtp/239.49.8.134:6000
 CCTV10,http://www.lebaobei.top:6868/udp/239.255.30.6:8231
+CCTV10,http://115.149.139.141:10000/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Fu7CeinMHJqra3zokMRz7n%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192552%2C%2C%2C20240420192552%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV11,http://106.53.99.30/dl/bjyd.php?id=7
 CCTV11,http://112.6.197.24:9921/hls/12/index.m3u8
 CCTV11,http://1.24.190.90:1080/hls/11/index.m3u8
@@ -150,7 +167,9 @@ CCTV11,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv11
 CCTV11,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv11
 CCTV11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
 CCTV11,http://www.lebaobei.top:6868/udp/239.255.30.7:8231
+CCTV11,http://115.149.139.141:10000/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV12,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HnJxyKiyVyy_NI7qKUlh3o%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192553%2C%2C%2C20240420192553%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV12,http://106.53.99.30/dl/bjyd.php?id=8
 CCTV12,http://112.6.197.24:9921/hls/13/index.m3u8
 CCTV12,http://1.24.190.90:1080/hls/12/index.m3u8
@@ -160,7 +179,9 @@ CCTV12,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv12
 CCTV12,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv12
 CCTV12,http://ds.shixd.cn:5957/rtp/239.49.8.135:6000
 CCTV12,http://www.lebaobei.top:6868/udp/239.255.30.8:8231
+CCTV12,http://115.149.139.141:10000/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV13,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7FeVpwiXzm8Z1FT0IzXPiAe%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192554%2C%2C%2C20240420192554%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV13,http://106.53.99.30/dl/bjyd.php?id=9
 CCTV13,http://112.6.197.24:9921/hls/14/index.m3u8
 CCTV13,http://222.218.158.141:8181/tsfile/live/0013_1.m3u8
@@ -171,7 +192,9 @@ CCTV13,http://1.24.190.90:1080/hls/13/index.m3u8
 CCTV13,http://ds.shixd.cn:5957/rtp/239.49.9.43:6000
 CCTV13,https://lives.jnnews.tv/video/s10001-cctv/index.m3u8
 CCTV13,http://www.lebaobei.top:6868/udp/239.255.30.9:8231
+CCTV13,http://115.149.139.141:10000/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Gjz8eIMyPUF5CKBM1zLuEZ%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192555%2C%2C%2C20240420192555%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV14,http://106.53.99.30/dl/bjyd.php?id=10
 CCTV14,http://1.24.190.90:1080/hls/14/index.m3u8
 CCTV14,http://222.218.158.141:8181/tsfile/live/0014_1.m3u8
@@ -180,7 +203,9 @@ CCTV14,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv14
 CCTV14,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv14
 CCTV14,http://ds.shixd.cn:5957/rtp/239.49.8.136:6000
 CCTV14,http://www.lebaobei.top:6868/udp/239.255.30.10:8231
+CCTV14,http://115.149.139.141:10000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 
+CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Ggfx09IYQ0HOnjH2d6pZUp%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192557%2C%2C%2C20240420192557%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV15,http://106.53.99.30/dl/bjyd.php?id=11
 CCTV15,http://1.24.190.90:1080/hls/15/index.m3u8
 CCTV15,http://222.218.158.141:8181/tsfile/live/0015_1.m3u8
@@ -188,10 +213,12 @@ CCTV15,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1586792991
 CCTV15,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv15
 CCTV15,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
 CCTV15,http://www.lebaobei.top:6868/udp/239.255.30.11:8231
+CCTV15,http://115.149.139.141:10000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
 
 CCTV16,http://222.218.158.141:8181/tsfile/live/1021_1.m3u8
 CCTV16,http://hulun.top:35455/gaoma/cctv16.m3u8
 
+CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV17,http://106.53.99.30/dl/bjyd.php?id=12
 CCTV17,http://112.6.197.24:9921/hls/18/index.m3u8
 CCTV17,http://222.218.158.141:8181/tsfile/live/0019_1.m3u8
@@ -209,6 +236,7 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 东南卫视,http://112.6.197.24:9921/hls/25/index.m3u8
 东南卫视,http://1.24.190.90:1080/hls/88/index.m3u8
 东南卫视,http://222.218.158.141:8181/tsfile/live/0137_1.m3u8
+东南卫视,http://115.149.139.141:10000/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 
 东方卫视,http://112.6.197.24:9921/hls/18/index.m3u8
 东方卫视,http://1.24.190.90:1080/hls/66/index.m3u8
@@ -217,10 +245,12 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 东方卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1588763278_-766408077/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=264104266&timezone=UTC&mtv_session=6b842c705e2cf7e9df14788ca8009ef5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=36ed1abbb2ec038b2f2303e58aea07a1
 东方卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dfws
 东方卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dfws
+东方卫视,http://115.149.139.141:10000/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://112.6.197.24:9921/hls/17/index.m3u8
 浙江卫视,http://222.218.158.141:8181/tsfile/live/0124_1.m3u8
+浙江卫视,http://115.149.139.141:10000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
 
 江苏卫视,http://112.6.197.24:9921/hls/19/index.m3u8
 江苏卫视,http://1.24.190.90:1080/hls/61/index.m3u8
@@ -228,11 +258,13 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 江苏卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1592593248_1989329552/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=264104188&timezone=UTC&mtv_session=6bc8392c0ce046c4a27b0d812696e9f8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a05b045f626d4764b5124f26a2f1d747
 江苏卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jsws
 江苏卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsws
+江苏卫视,http://115.149.139.141:10000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
 
 湖南卫视,http://112.6.197.24:9921/hls/16/index.m3u8
 湖南卫视,http://1.24.190.90:1080/hls/60/index.m3u8
 湖南卫视,http://222.218.158.141:8181/tsfile/live/0128_1.m3u8
 湖南卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591995316_1587683132/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=265667721&timezone=UTC&mtv_session=7b07894c57472651304a93669cf87e9b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=617e25748c5f12b7864cc6fb758deaa7
+湖南卫视,http://115.149.139.141:10000/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
 
 湖北卫视,http://112.6.197.24:9921/hls/26/index.m3u8
 湖北卫视,http://1.24.190.90:1080/hls/65/index.m3u8
@@ -240,19 +272,24 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 湖北卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591694976_-107212910/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261978&timezone=UTC&mtv_session=437fc6e8d29c853ca88935e2fd49acea&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d50581461bffa6a3d876b8cc8a1ebce
 湖北卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hubws
 湖北卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hubws
+湖北卫视,http://115.149.139.141:10000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
 
 安徽卫视,http://112.6.197.24:9921/hls/21/index.m3u8
 安徽卫视,http://1.24.190.90:1080/hls/85/index.m3u8
 安徽卫视,http://222.218.158.141:8181/tsfile/live/0130_1.m3u8
+安徽卫视,http://115.149.139.141:10000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://115.149.139.141:10000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 
 北京卫视,http://112.6.197.24:9921/hls/20/index.m3u8
 北京卫视,http://1.24.190.90:1080/hls/68/index.m3u8
 北京卫视,http://222.218.158.141:8181/tsfile/live/0122_1.m3u8
 北京卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
+北京卫视,http://115.149.139.141:10000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 
 天津卫视,http://112.6.197.24:9921/hls/22/index.m3u8
 天津卫视,http://1.24.190.90:1080/hls/69/index.m3u8
 天津卫视,http://222.218.158.141:8181/tsfile/live/0135_1.m3u8
+天津卫视,http://115.149.139.141:10000/tsfile/live/1036_1.m3u8?key=txiptv&playlive=0&authid=0
 
 广东卫视,http://112.6.197.24:9921/hls/27/index.m3u8
 广东卫视,http://1.24.190.90:1080/hls/79/index.m3u8
@@ -261,10 +298,12 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 广东卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593177896_517539519/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=263541274&timezone=UTC&mtv_session=4d4e96518e2e6558846eec1f7e8cb4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cbba4b3db62cb6fb348d495ad003a2c8
 广东卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
 广东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
+广东卫视,http://115.149.139.141:10000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
 
 广西卫视,http://112.6.197.24:9921/hls/34/index.m3u8
 广西卫视,http://1.24.190.90:1080/hls/90/index.m3u8
 广西卫视,http://222.218.158.141:8181/tsfile/live/0113_1.m3u8
+广西卫视,http://115.149.139.141:10000/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 
 江西卫视,http://112.6.197.24:9921/hls/30/index.m3u8
 江西卫视,http://1.24.190.90:1080/hls/82/index.m3u8
@@ -275,6 +314,7 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 
 深圳卫视,http://1.24.190.90:1080/hls/76/index.m3u8
 深圳卫视,http://222.218.158.141:8181/tsfile/live/0126_1.m3u8
+深圳卫视,http://115.149.139.141:10000/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 
 辽宁卫视,http://112.6.197.24:9921/hls/23/index.m3u8
 辽宁卫视,http://1.24.190.90:1080/hls/72/index.m3u8
@@ -314,6 +354,7 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 河北卫视,http://112.6.197.24:9921/hls/31/index.m3u8
 河北卫视,http://1.24.190.90:1080/hls/78/index.m3u8
 河北卫视,http://222.218.158.141:8181/tsfile/live/0117_1.m3u8
+河北卫视,http://115.149.139.141:10000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 
 陕西卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591088432_505084450/migu/kailu/shan3xiws/57/20220809/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531262099&timezone=UTC&mtv_session=3685f124271f5ee0b99269587b09cf4a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=25d01304c5d1e6f70cc33073ccfdaf0f
 陕西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
@@ -321,6 +362,7 @@ CCTV17,http://www.lebaobei.top:6868/udp/239.255.30.95:8231
 
 黑龙江卫视,http://112.6.197.24:9921/hls/28/index.m3u8
 黑龙江卫视,http://1.24.190.90:1080/hls/70/index.m3u8
+黑龙江卫视,http://115.149.139.141:10000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 
 内蒙古卫视,http://1.24.190.90:1080/hls/31/index.m3u8
 内蒙古卫视,http://222.218.158.141:8181/tsfile/live/0109_1.m3u8
@@ -442,6 +484,10 @@ GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+凤凰中文,http://115.149.139.141:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+
+凤凰资讯,http://115.149.139.141:10000/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=0
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
