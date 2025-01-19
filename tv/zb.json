@@ -74,7 +74,8 @@ CCTV3,http://ds.shixd.cn:5957/rtp/239.49.9.31:6000
 CCTV3,http://115.149.139.141:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8
 
-CCTV4,http://112.15.228.196:80/PLTV/88888888/224/3221231654/index.m3u8
+CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV4,http://112.15.228.196:80/PLTV/88888888/224/3221231726/1.m3u8
 CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
 CCTV4,http://112.6.197.24:9921/hls/4/index.m3u8
 CCTV4,http://1.24.190.90:1080/hls/4/index.m3u8
@@ -98,6 +99,7 @@ CCTV5,http://ds.shixd.cn:5957/rtp/239.49.9.32:6000
 CCTV5,http://115.149.139.141:10000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,https://tvpull.careryun.com/tv/cctv5.m3u8
 
+CCTV5+,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV5+,http://112.15.228.206:80/PLTV/88888888/224/3221231459/index.m3u8
 CCTV5+,http://112.6.197.24:9921/hls/6/index.m3u8
 CCTV5+,http://1.24.190.90:1080/hls/16/index.m3u8
@@ -174,6 +176,7 @@ CCTV10,http://www.lebaobei.top:6868/udp/239.255.30.6:8231
 CCTV10,http://115.149.139.141:10000/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
 
+CCTV11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV11,http://112.15.228.196:80/PLTV/88888888/224/3221231711/index.m3u8
 CCTV11,http://106.53.99.30/dl/bjyd.php?id=7
 CCTV11,http://112.6.197.24:9921/hls/12/index.m3u8
@@ -202,6 +205,7 @@ CCTV12,http://www.lebaobei.top:6868/udp/239.255.30.8:8231
 CCTV12,http://115.149.139.141:10000/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
 
+CCTV13,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV13,http://112.15.228.196:80/PLTV/88888888/224/3221231636/index.m3u8
 CCTV13,http://106.53.99.30/dl/bjyd.php?id=9
 CCTV13,http://112.6.197.24:9921/hls/14/index.m3u8
@@ -216,6 +220,7 @@ CCTV13,http://www.lebaobei.top:6868/udp/239.255.30.9:8231
 CCTV13,http://115.149.139.141:10000/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8
 
+CCTV14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV14,http://112.15.228.196:80/PLTV/88888888/224/3221231648/index.m3u8
 CCTV14,http://106.53.99.30/dl/bjyd.php?id=10
 CCTV14,http://1.24.190.90:1080/hls/14/index.m3u8
@@ -229,6 +234,7 @@ CCTV14,http://115.149.139.141:10000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=
 CCTV14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
 CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8
 
+CCTV15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV15,http://112.15.228.198:80/PLTV/88888888/224/3221231693/index.m3u8
 CCTV15,http://106.53.99.30/dl/bjyd.php?id=11
 CCTV15,http://1.24.190.90:1080/hls/15/index.m3u8
@@ -239,6 +245,8 @@ CCTV15,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv15
 CCTV15,http://www.lebaobei.top:6868/udp/239.255.30.11:8231
 CCTV15,http://115.149.139.141:10000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8
+
+CCTV16,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV17,http://112.15.228.200:80/PLTV/88888888/224/3221231772/index.m3u8
@@ -278,6 +286,7 @@ CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
 东方卫视,http://115.149.139.141:10000/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 
+浙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://112.6.197.24:9921/hls/17/index.m3u8
 浙江卫视,http://222.218.158.141:8181/tsfile/live/0124_1.m3u8
@@ -292,6 +301,7 @@ CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
 江苏卫视,http://115.149.139.141:10000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=14912719076157451667
 
+湖南卫视,http://112.15.228.194:80/PLTV/88888888/224/3221228852/index.m3u8
 湖南卫视,http://112.6.197.24:9921/hls/16/index.m3u8
 湖南卫视,http://1.24.190.90:1080/hls/60/index.m3u8
 湖南卫视,http://222.218.158.141:8181/tsfile/live/0128_1.m3u8
@@ -318,11 +328,13 @@ CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
 北京卫视,http://115.149.139.141:10000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611
 
+天津卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 天津卫视,http://112.6.197.24:9921/hls/22/index.m3u8
 天津卫视,http://1.24.190.90:1080/hls/69/index.m3u8
 天津卫视,http://222.218.158.141:8181/tsfile/live/0135_1.m3u8
 天津卫视,http://115.149.139.141:10000/tsfile/live/1036_1.m3u8?key=txiptv&playlive=0&authid=0
 
+广东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广东卫视,http://112.6.197.24:9921/hls/27/index.m3u8
 广东卫视,http://1.24.190.90:1080/hls/79/index.m3u8
 广东卫视,http://222.218.158.141:8181/tsfile/live/0125_1.m3u8
@@ -372,6 +384,7 @@ CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
 山东卫视,http://222.218.158.141:8181/tsfile/live/0131_1.m3u8
 山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100
 
+海南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 海南卫视,http://1.24.190.90:1080/hls/99/index.m3u8
 海南卫视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=hinws
 
